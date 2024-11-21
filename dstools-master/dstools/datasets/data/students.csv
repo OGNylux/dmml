@@ -1,0 +1,1126 @@
+Gender;Weight;Size;Eyes;Hair;Shoesize;Mathgrade;Germangrade;Englishgrade;Smoker;EduMother;SizeMother;SmokeMother;EduFather;SizeFather;SmokeFather;ZodiacSign
+male;68;183;gray;darkblonde;44;4;3;;yes;Upper Secondary;177;no;Degree;178;no;Cancer
+male;80;184;blue;blonde;44;3;2;1;no;Secondary;160;yes;Secondary;176;no;Leo
+female;62;173;blue;blonde;39;4;2;2;yes;Upper Secondary;171;no;Degree;175;no;Pisces
+female;55;165;green;blonde;38;3;3;3;yes;Degree;164;yes;Degree;185;no;Sagittarius
+female;60;165;blue;brown;38;4;3;3;no;Secondary;165;yes;Secondary;190;yes;Virgo
+male;70;185;blue;black;44;;;;yes;Secondary;;no;Secondary;185;no;Pisces
+male;81;179;bluegray;brown;42;;1;2;yes;Secondary;165;no;Upper Secondary;175;no;Taurus
+male;93;185;brown;brown;44;4;4;3;yes;Secondary;173;no;Upper Secondary;184;yes;Leo
+female;70;178;blue;blonde;42;3;4;2;yes;Upper Secondary;172;yes;Upper Secondary;184;no;Taurus
+female;75;168;brown;brown;39;3;2;4;yes;Upper Secondary;160;no;Degree;180;no;Leo
+female;65;165;green;brown;39;;3;3;no;Secondary;160;no;Secondary;170;no;Aquarius
+male;80;182;brown;brown;45;3;4;3;no;Secondary;169;no;Degree;175;yes;Leo
+male;83;193;brown;blackbrown;45;3;3;2;no;Secondary;165;no;Secondary;186;yes;Virgo
+male;65;172;brown;brown;42;2;2;2;no;;;;;;;Capricorn
+male;73;173;green;brown;42;4;3;3;no;Degree;168;yes;Upper Secondary;176;no;Libra
+female;65;162;blue;darkblonde;37;;1;3;no;Secondary;169;yes;Degree;169;no;Capricorn
+male;73;173;brown;darkbrown;42;3;3;3;no;Secondary;158;no;Secondary;168;yes;Virgo
+male;78;193;brown;brown;;2;3;1;no;Secondary;172;no;Secondary;183;yes;Pisces
+male;72;178;bluegreen;brown;43;1;1;2;no;Secondary;165;no;Secondary;168;no;Leo
+female;50;157;blue;brown;36;4;3;4;no;Secondary;165;no;Secondary;175;yes;Taurus
+female;48;160;brown;brown;37;;;;no;Degree;162;no;Degree;179;no;Taurus
+male;70;183;brown;black;43;3;2;2;yes;Upper Secondary;165;no;Degree;180;no;Aquarius
+male;82;188;green;brown;45;3;2;3;yes;Degree;168;no;Degree;173;yes;Sagittarius
+male;75;180;brown;brown;44;1;2;3;no;Secondary;170;no;Secondary;175;no;Virgo
+male;80;182;green;brown;42;3;;4;no;Degree;161;no;Degree;187;no;Scorpio
+male;59;173;brown;brown;43;1;3;2;no;Secondary;162;no;Degree;165;no;Virgo
+female;59;168;green;brown;38;1;1;2;no;Secondary;164;no;Secondary;165;no;Leo
+female;64;173;green;brown;38;;2;3;no;Secondary;170;no;Secondary;175;no;Pisces
+female;56;170;brown;brown;37;4;2;3;yes;Secondary;156;no;Secondary;175;no;Libra
+female;53;165;blue;redbrown;38;3;3;3;yes;Degree;155;no;Degree;182;yes;Virgo
+female;50;162;greenbrown;redbrown;37;4;4;3;yes;Secondary;168;no;Secondary;178;no;Cancer
+female;70;165;brown;brown;38;2;3;4;no;Secondary;160;no;Secondary;180;no;Cancer
+male;64;170;blue;redblonde;42;;2;1;no;Secondary;165;no;Secondary;175;no;Libra
+male;71;184;bluegray;blonde;44;3;2;1;yes;Upper Secondary;164;no;Secondary;182;yes;Taurus
+female;54;164;green;brown;37;3;3;4;no;Secondary;166;no;Upper Secondary;170;no;Sagittarius
+female;48;160;blue;lightbrown;38;3;2;3;no;Upper Secondary;172;no;Upper Secondary;176;no;Gemini
+female;50;165;green;brown;38;3;2;1;no;Upper Secondary;170;yes;Secondary;;;Scorpio
+male;61;175;brown;brown;42;1;1;1;no;;;;;;;Aries
+male;76;186;green;brown;44;3;3;3;no;Upper Secondary;165;no;Degree;180;no;Cancer
+male;80;194;blue;brown;45;;3;;no;Secondary;172;no;Secondary;188;no;Cancer
+male;69;169;blue;brown;41;3;3;2;no;Upper Secondary;167;yes;Secondary;172;no;Virgo
+male;65;169;brown;black;41;4;3;3;yes;Secondary;155;no;Secondary;171;no;Scorpio
+male;71;183;blue;blonde;43;2;2;2;no;Secondary;168;no;Secondary;180;no;Sagittarius
+female;50;165;bluegray;brown;37;1;1;2;yes;Upper Secondary;170;yes;Upper Secondary;175;yes;Aries
+female;62;167;greenbrown;brown;38;3;3;4;no;Secondary;161;no;Secondary;181;no;Libra
+male;80;182;greenbrown;brown;43;2;3;3;no;Secondary;178;no;Secondary;186;no;Taurus
+male;65;183;blue;blonde;43;4;3;2;yes;Degree;160;no;Degree;184;no;Pisces
+male;70;173;brown;brown;41;3;1;3;no;Secondary;164;yes;Upper Secondary;175;yes;Sagittarius
+male;72;177;blue;brown;42;4;3;2;yes;Upper Secondary;168;no;Degree;177;no;Pisces
+male;80;183;blue;blonde;43;3;4;4;no;Secondary;155;no;Secondary;170;no;Sagittarius
+male;80;184;brown;brown;45;4;3;3;no;Secondary;164;no;Secondary;;no;Gemini
+male;69;180;green;brown;43;2;3;2;no;Secondary;160;no;Secondary;175;no;Gemini
+male;61;172;brown;brown;41;2;2;3;yes;Upper Secondary;168;no;Degree;171;no;Taurus
+male;78;184;blue;brown;45;2;1;2;no;Secondary;170;no;Degree;180;no;Leo
+male;78;185;blue;blonde;42;3;1;2;no;Secondary;172;no;Upper Secondary;180;no;Aries
+male;82;190;blue;brown;43;;2;;no;;;;;;;Aries
+male;72;178;brown;brown;44;2;2;3;yes;Upper Secondary;170;no;Degree;172;no;Scorpio
+male;76;184;green;blonde;46;3;4;4;yes;Secondary;168;no;Secondary;175;no;Capricorn
+male;70;188;brown;black;47;4;4;2;yes;Secondary;175;no;Upper Secondary;168;no;Virgo
+male;77;180;graygreen;brown;43;4;1;3;no;Secondary;164;no;Upper Secondary;178;no;
+male;72;175;blue;brown;42;2;3;3;yes;Secondary;165;no;Secondary;175;yes;Capricorn
+male;57;174;brown;brown;43;2;4;2;yes;Upper Secondary;160;yes;Upper Secondary;184;yes;Virgo
+female;63;169;brown;brown;41;4;2;3;yes;Upper Secondary;158;no;Upper Secondary;180;no;Gemini
+male;70;184;brown;darkbrown;42;3;4;4;yes;Upper Secondary;170;yes;Upper Secondary;178;no;Scorpio
+female;60;172;blue;brown;39;;;;no;Degree;165;no;Degree;175;no;Pisces
+male;76;179;brown;brown;43;;2;;no;Secondary;160;no;Secondary;179;no;Sagittarius
+male;45;156;brown;black;38;;3;;no;Secondary;152;yes;Secondary;;;Aquarius
+male;95;188;gray;black;46;;3;1;no;Upper Secondary;165;no;Degree;168;no;Scorpio
+male;80;183;bluegray;brown;44;;1;;no;Secondary;170;no;Secondary;175;no;Pisces
+male;74;162;brown;black;42;2;1;1;no;Degree;170;no;Degree;172;no;Aquarius
+male;72;182;green;lightbrown;44;2;3;1;no;Upper Secondary;168;no;Degree;184;no;Scorpio
+male;70;182;green;blonde;44;3;4;2;yes;Upper Secondary;160;no;Secondary;175;no;Leo
+male;62;170;brown;brown;41;4;4;;yes;Secondary;155;no;Secondary;172;no;Sagittarius
+male;68;170;bluegray;blonde;42;;4;;no;Secondary;154;no;Secondary;154;no;Leo
+male;78;182;brown;brown;44;1;3;4;no;Secondary;166;no;Upper Secondary;179;no;Sagittarius
+male;70;180;blue;brown;43;3;4;2;no;Upper Secondary;170;no;Secondary;180;no;Virgo
+female;59;167;green;blonde;37;2;2;3;no;Degree;;no;Upper Secondary;;;Scorpio
+male;69;180;bluegray;blonde;41;3;3;3;no;Secondary;172;no;Upper Secondary;165;no;Libra
+female;50;160;bluegray;brown;37;2;4;;no;Upper Secondary;165;yes;Degree;172;yes;Taurus
+male;85;186;greenbrown;brown;43;1;3;1;no;Secondary;167;no;Secondary;173;no;Taurus
+male;68;180;brown;brown;43;;3;1;yes;Degree;168;no;Upper Secondary;177;no;Leo
+male;70;185;blue;blonde;46;;3;2;no;Secondary;174;no;Secondary;174;no;Pisces
+male;80;192;brown;brown;47;;1;1;no;Secondary;168;no;Upper Secondary;186;no;Leo
+male;85;183;blue;darkblonde;43;;1;1;no;Secondary;177;yes;Secondary;174;yes;Pisces
+male;82;198;blue;blonde;46;;2;1;yes;Degree;178;no;Degree;180;no;Leo
+male;75;186;green;blonde;44;3;3;2;no;Upper Secondary;170;yes;Secondary;186;yes;Aquarius
+male;58;178;gray;blonde;43;;1;;no;Secondary;170;no;Secondary;175;no;Aquarius
+male;58;173;blue;brown;40;3;4;3;no;Secondary;165;yes;Upper Secondary;178;yes;Capricorn
+male;74;176;blue;brown;41;;3;;no;Secondary;163;no;Upper Secondary;182;yes;Gemini
+male;62;187;brown;brown;42;4;3;3;yes;Degree;;no;Upper Secondary;;no;Gemini
+male;67;181;bluegray;brownblonde;37;;3;1;no;Secondary;161;no;Degree;192;no;Aries
+male;70;182;brown;brown;43;1;1;1;yes;Secondary;165;no;Upper Secondary;170;no;Taurus
+male;70;183;brown;brown;42;4;3;4;yes;Degree;170;no;Degree;182;no;Pisces
+male;70;178;graygreen;brown;43;2;4;1;yes;Secondary;160;no;Secondary;165;yes;Leo
+male;65;175;green;brown;42;4;;;;;;;;;;Capricorn
+male;80;184;bluegray;brown;43;;2;;yes;Secondary;169;no;Upper Secondary;181;no;Scorpio
+male;80;183;blue;brown;45;2;2;2;no;Secondary;160;yes;Secondary;190;yes;Pisces
+male;57;175;green;brown;40;;3;2;no;Secondary;165;no;Upper Secondary;178;no;Cancer
+male;70;176;blue;blonde;42;;3;3;yes;Secondary;155;no;Secondary;182;no;Sagittarius
+male;53;176;blue;blonde;42;;3;3;yes;Degree;165;no;Degree;165;no;Libra
+male;115;184;brown;brown;45;3;1;3;yes;Degree;170;no;Degree;180;no;Pisces
+male;54;161;brown;brown;40;3;1;2;no;Secondary;148;no;Secondary;157;no;Scorpio
+male;87;185;brown;brown;43;;2;1;no;Secondary;158;no;Secondary;183;no;Libra
+male;62;176;brown;brown;41;4;2;2;yes;Secondary;160;no;Secondary;175;no;Libra
+male;87;184;brown;black;47;3;4;;yes;Degree;169;no;Secondary;160;no;Virgo
+male;65;175;darkbrown;darkbrown;43;3;4;4;no;Upper Secondary;160;no;Degree;175;yes;Libra
+male;48;160;green;brown;39;;1;1;yes;Secondary;150;no;Secondary;173;no;Scorpio
+male;90;180;blue;brown;43;2;2;2;yes;Secondary;160;no;Secondary;175;no;Gemini
+female;70;170;brown;brown;40;2;4;3;no;Upper Secondary;165;no;Secondary;181;no;Pisces
+male;78;175;blue;blonde;45;2;3;1;yes;Secondary;160;no;Secondary;170;yes;Libra
+male;68;179;brown;blonde;42;1;1;1;yes;Secondary;172;no;Secondary;175;yes;Cancer
+male;91;189;brown;brown;43;2;2;1;yes;Secondary;155;no;Secondary;176;no;Aquarius
+male;82;187;brown;brown;43;4;1;2;yes;Degree;168;no;Degree;174;no;Leo
+male;80;189;bluegreen;darkblonde;;2;4;3;no;Degree;165;no;Upper Secondary;180;no;Aquarius
+male;67;173;green;blonde;42;4;2;3;yes;Secondary;167;no;Degree;172;no;Cancer
+male;70;185;blue;brown;42;1;3;3;no;Secondary;164;yes;Degree;180;no;Gemini
+female;48;168;brown;black;36;2;2;2;no;Upper Secondary;155;no;Upper Secondary;179;yes;Aries
+female;58;163;brown;brown;39;2;3;2;no;Secondary;160;no;Secondary;175;yes;Cancer
+male;78;178;blue;brown;43;3;2;3;yes;Upper Secondary;160;no;Upper Secondary;180;no;Gemini
+female;53;166;blue;brown;39;1;2;3;no;Secondary;175;no;Degree;175;no;Aries
+female;60;173;brown;brown;39;;2;4;no;Degree;164;no;Degree;190;no;Aries
+female;54;167;blue;darkblonde;38;2;3;;no;Degree;166;no;Upper Secondary;178;no;Taurus
+male;92;176;black;black;43;;2;2;yes;Secondary;163;no;Secondary;173;yes;Gemini
+female;60;168;gray;brown;37;4;1;2;yes;Secondary;172;no;Degree;175;no;Capricorn
+male;60;176;brown;black;43;3;2;1;no;Secondary;;no;Secondary;176;no;Capricorn
+male;70;174;blue;brown;42;1;3;4;yes;Degree;165;no;Degree;165;yes;Aquarius
+female;75;183;green;red;41;2;3;;yes;Secondary;;no;;;;Sagittarius
+male;80;196;blue;brown;45;2;4;4;no;Secondary;170;no;Secondary;185;no;Taurus
+male;74;175;blue;brown;42;;;;no;Secondary;165;no;Secondary;168;no;Scorpio
+female;60;173;blue;blonde;40;;2;4;yes;Secondary;170;no;Upper Secondary;;no;Virgo
+female;65;173;blue;blonde;39;2;;4;no;Secondary;160;no;Upper Secondary;185;yes;Gemini
+male;68;181;brown;brown;44;2;1;1;no;Upper Secondary;168;no;Upper Secondary;178;yes;Aquarius
+male;58;168;brown;brown;41;1;3;4;no;Secondary;160;no;Upper Secondary;;;Libra
+female;70;170;blue;brown;40;1;1;3;no;Secondary;165;no;Degree;172;no;Libra
+male;70;178;green;brown;41;2;3;4;no;Secondary;164;no;Secondary;168;no;Sagittarius
+male;72;182;blue;blonde;44;1;1;1;no;Upper Secondary;164;no;Degree;172;no;Cancer
+male;69;180;blue;blonde;43;1;1;;yes;Degree;168;no;Degree;170;no;Taurus
+male;65;175;brown;black;42;4;1;1;no;Degree;160;no;Degree;170;no;Capricorn
+male;90;176;gray;blonde;41;;1;;no;Secondary;165;no;Upper Secondary;167;no;Taurus
+male;70;175;green;brown;42;1;3;4;yes;Degree;165;no;Degree;168;yes;Aquarius
+male;76;178;green;brown;41;2;3;3;yes;;168;no;;174;yes;Taurus
+female;50;164;brown;brown;36;1;1;1;yes;Upper Secondary;162;no;Upper Secondary;175;no;Capricorn
+female;48;168;blue;blonde;38;1;3;3;no;Upper Secondary;162;no;Upper Secondary;175;no;Aries
+male;80;181;blue;brown;43;3;2;3;no;Secondary;159;yes;Secondary;172;no;Sagittarius
+male;74;185;blue;brown;42;;2;;no;Secondary;160;no;Secondary;179;no;Pisces
+male;77;171;blue;brown;43;1;2;2;no;Upper Secondary;165;no;Secondary;191;no;Sagittarius
+male;65;182;brown;brown;41;3;4;4;no;Secondary;165;no;Upper Secondary;175;no;Leo
+male;78;191;brown;brown;44;;1;1;no;Upper Secondary;175;no;Secondary;192;yes;Scorpio
+male;66;184;blue;blonde;43;3;3;2;no;Degree;168;no;Degree;172;yes;Scorpio
+male;64;173;brown;brown;41;1;1;1;no;Secondary;156;no;Degree;170;no;Aquarius
+male;65;177;brown;brown;42;3;2;2;yes;Degree;165;no;Degree;179;no;Leo
+male;74;185;brown;black;45;1;4;4;no;Secondary;175;no;Secondary;180;no;Leo
+male;68;186;blue;brown;43;;;;no;Secondary;165;no;Secondary;185;no;Gemini
+male;68;176;brown;brown;43;2;3;2;yes;Secondary;159;yes;Secondary;183;no;Cancer
+male;70;170;blue;brown;42;2;1;1;yes;Degree;175;no;Degree;165;no;Cancer
+male;63;169;green;brown;40;;;;yes;Secondary;158;no;Secondary;167;no;Scorpio
+female;48;165;gray;brown;37;3;4;3;no;Secondary;170;no;Secondary;170;no;Gemini
+female;56;170;bluegray;white;39;1;2;3;no;Upper Secondary;180;no;Secondary;165;no;Leo
+male;67;177;blue;blonde;42;4;3;3;no;Secondary;167;no;Secondary;168;yes;Gemini
+male;64;175;green;brown;42;2;2;1;yes;Secondary;161;no;Secondary;174;no;Capricorn
+female;60;161;brown;black;38;1;2;3;no;Secondary;167;no;Secondary;179;no;Aries
+female;57;172;brown;brown;39;1;3;;no;Upper Secondary;180;yes;Upper Secondary;170;no;Leo
+female;52;167;green;brown;37;1;1;2;no;Secondary;175;no;Secondary;168;no;Libra
+female;62;172;green;blonde;38;1;1;1;no;Secondary;165;yes;Upper Secondary;172;no;Capricorn
+male;73;180;brown;brown;41;1;4;4;no;Secondary;176;yes;Upper Secondary;168;no;Capricorn
+male;67;184;brown;brown;42;1;1;2;yes;Secondary;171;no;Degree;171;yes;Aries
+female;49;172;brown;brown;38;2;2;2;no;Secondary;166;no;Secondary;175;yes;Cancer
+female;52;167;brown;brown;37;1;3;2;no;Secondary;176;yes;Secondary;170;yes;Pisces
+female;65;170;greenbrown;blonde;38;1;1;;yes;Degree;175;yes;Degree;180;no;Virgo
+female;55;172;blue;brown;40;4;2;4;yes;Secondary;173;yes;Secondary;180;yes;Aries
+female;51;164;brown;brown;38;2;4;2;no;Degree;168;no;Degree;174;no;Taurus
+female;56;173;blue;brown;38;1;2;1;yes;Secondary;160;no;Secondary;165;no;Capricorn
+male;67;170;brown;brown;40;;3;;yes;Secondary;156;no;Secondary;165;no;Gemini
+male;63;179;green;brown;43;;2;2;no;Upper Secondary;162;yes;Secondary;186;yes;Cancer
+male;68;184;blue;darkbrown;42;3;3;2;no;Upper Secondary;174;no;Upper Secondary;188;no;Pisces
+male;90;200;brown;brown;50;1;1;1;no;Secondary;175;no;Upper Secondary;180;yes;Scorpio
+male;65;170;blue;blonde;41;2;2;3;no;Secondary;155;no;Secondary;180;no;Scorpio
+female;67;161;brown;brown;39;1;2;3;yes;Degree;165;no;Upper Secondary;188;no;Pisces
+male;72;174;blue;brown;42;2;3;4;yes;Degree;165;no;Degree;168;yes;Aquarius
+male;72;183;brown;brown;43;2;3;3;yes;Secondary;165;no;Upper Secondary;180;no;Leo
+female;57;163;blue;darkblonde;38;;1;2;no;Secondary;;no;Secondary;;no;Aries
+male;60;170;brown;brown;42;;;;yes;Secondary;160;no;Upper Secondary;180;no;Libra
+male;65;180;green;brown;42;2;2;2;no;Upper Secondary;165;yes;Secondary;187;yes;Scorpio
+male;73;183;brown;darkbrown;42;1;4;;no;Secondary;170;no;Secondary;170;no;Pisces
+female;60;174;blue;blonde;41;2;1;;no;Upper Secondary;165;no;Degree;;;Taurus
+male;72;175;green;graybrown;43;;;;yes;Secondary;160;no;Upper Secondary;180;no;Gemini
+male;76;178;brown;brown;43;4;2;4;no;Upper Secondary;170;no;Upper Secondary;175;no;Taurus
+male;86;180;green;brown;43;1;1;1;yes;Degree;160;no;Degree;176;no;Aquarius
+male;70;182;brown;brown;43;1;2;2;no;Secondary;159;no;Secondary;173;no;Leo
+male;70;181;brown;redbrown;43;;2;3;no;Upper Secondary;175;yes;Secondary;180;yes;Pisces
+male;75;175;brown;brown;42;3;3;3;no;Degree;165;no;Degree;182;no;Aquarius
+male;70;177;blue;brown;42;;1;;yes;;;;;;;Scorpio
+male;70;174;bluegreen;blondebrown;42;1;3;4;yes;Degree;172;yes;Degree;185;no;Gemini
+male;52;173;brown;black;41;3;;3;yes;Secondary;155;no;Secondary;172;no;Cancer
+male;45;190;blue;brown;42;3;2;2;no;Secondary;174;no;Upper Secondary;180;yes;Aries
+male;78;180;graygreen;brown;44;4;2;4;no;Upper Secondary;160;yes;Secondary;190;no;Leo
+male;65;180;brown;darkbrown;44;4;4;4;no;Upper Secondary;165;no;Degree;185;no;Leo
+male;92;182;bluegray;brown;44;1;1;3;no;Secondary;174;yes;Upper Secondary;176;yes;Virgo
+male;65;173;brown;brown;43;1;1;1;no;Secondary;165;no;Secondary;178;no;Pisces
+female;53;163;brown;brown;39;1;1;1;no;Degree;169;yes;Degree;169;yes;Aries
+female;56;170;brown;brown;39;1;1;2;no;Degree;164;yes;Degree;180;no;Pisces
+male;70;183;blue;blonde;42;3;2;;no;Degree;170;no;Degree;180;no;Virgo
+male;71;191;blue;blonde;44;2;4;4;no;Secondary;169;no;Degree;175;yes;Virgo
+female;54;174;blue;brown;40;1;2;1;no;Degree;168;yes;Degree;178;no;Gemini
+female;56;170;darkbrown;darkbrown;42;3;2;4;yes;Degree;162;yes;Degree;185;no;Gemini
+male;76;193;bluegray;blonde;44;3;3;3;yes;Secondary;172;no;Secondary;181;no;Cancer
+male;80;186;bluegray;brown;42;4;3;2;no;Degree;170;no;Degree;180;no;Aries
+male;95;185;brown;brown;45;1;2;2;no;Secondary;170;no;Secondary;182;no;Gemini
+female;54;164;green;brown;38;3;1;2;no;Secondary;165;no;Secondary;175;yes;Aries
+male;75;180;brown;brown;45;4;3;4;no;Secondary;160;no;Secondary;180;no;Sagittarius
+female;51;164;brown;brown;38;2;4;2;no;Degree;168;no;Degree;174;no;Taurus
+male;76;178;brown;brown;43;4;2;4;no;Upper Secondary;170;no;Upper Secondary;175;no;Taurus
+female;56;170;darkbrown;darkbrown;42;3;2;4;yes;Degree;162;yes;Degree;185;no;Gemini
+male;95;185;brown;brown;45;1;2;2;no;Secondary;170;no;Secondary;182;no;Gemini
+female;60;169;brown;darkbrown;40;;3;1;yes;;167;yes;;170;no;Virgo
+male;67;176;brown;white;41;1;1;;no;Degree;168;no;Degree;169;no;Aquarius
+male;68;170;brown;brown;41;3;3;3;no;Secondary;160;no;Secondary;162;no;Gemini
+male;80;185;gray;brown;43;3;2;4;no;Secondary;175;yes;Upper Secondary;181;no;Scorpio
+female;58;176;brown;black;39;2;3;3;no;Secondary;165;no;Secondary;183;no;Libra
+male;68;178;blue;blonde;43;2;3;2;yes;Upper Secondary;165;no;Degree;175;no;Scorpio
+male;90;195;green;brown;47;3;2;3;yes;Secondary;170;no;Degree;190;no;Aries
+male;78;183;blue;blonde;44;3;2;2;yes;Secondary;160;no;Secondary;170;yes;Scorpio
+female;46;160;brown;brown;37;2;2;3;no;Secondary;160;no;Secondary;170;yes;Virgo
+male;99;189;blue;brown;47;4;2;;no;Upper Secondary;173;no;Secondary;172;no;Taurus
+male;68;173;brown;brown;43;2;4;4;no;Secondary;159;no;Secondary;171;yes;Leo
+female;54;160;blue;brown;38;4;3;4;no;Upper Secondary;158;no;Secondary;170;no;Sagittarius
+female;60;176;brown;black;39;2;4;3;no;Secondary;165;no;Secondary;182;no;Cancer
+male;62;174;green;brown;42;1;3;4;yes;Secondary;165;no;Secondary;185;no;Taurus
+male;73;185;brown;brown;43;2;3;3;no;Secondary;163;no;Upper Secondary;181;yes;Leo
+female;68;174;blue;brown;38;1;2;4;no;Upper Secondary;175;yes;Degree;186;yes;Gemini
+male;73;193;green;brown;44;1;4;2;no;Secondary;175;no;Secondary;180;yes;Pisces
+female;53;175;green;darkblonde;38;4;3;3;yes;Secondary;168;no;Secondary;175;no;Scorpio
+female;65;176;brown;brown;41;1;1;1;no;Upper Secondary;164;no;Secondary;178;no;Gemini
+female;55;156;bluegray;lightbrown;38;3;4;;no;Degree;158;no;Degree;173;no;Leo
+male;75;177;green;brown;43;3;4;4;no;Upper Secondary;165;no;Degree;170;no;Pisces
+male;75;181;green;brown;43;2;3;2;yes;Secondary;171;no;Secondary;179;no;Leo
+male;72;168;blue;brown;39;2;4;4;no;Upper Secondary;158;no;Degree;162;no;Capricorn
+female;66;181;green;darkbrown;41;4;3;4;no;Upper Secondary;175;no;Secondary;180;no;Gemini
+male;50;160;brown;brown;38;1;2;1;no;Degree;163;no;Degree;180;no;Aquarius
+male;65;180;bluegray;brown;42;3;2;3;no;Upper Secondary;160;yes;Degree;180;yes;Virgo
+male;95;180;brown;brown;45;2;3;3;no;Secondary;160;no;Secondary;160;yes;Virgo
+female;49;155;brown;brown;37;1;1;1;no;Upper Secondary;161;no;Degree;162;yes;Aquarius
+female;52;164;bluegray;black;37;2;3;3;yes;Secondary;161;yes;Secondary;180;no;Capricorn
+male;75;175;brown;black;42;1;1;1;yes;Degree;165;no;Degree;170;no;Virgo
+female;64;181;greenbrown;lightbrown;41;2;2;3;no;Secondary;179;no;Secondary;176;yes;Leo
+male;73;176;blue;brown;42;1;2;2;no;Upper Secondary;165;no;Upper Secondary;180;no;Virgo
+male;89;177;green;black;43;1;;1;no;Secondary;163;no;Secondary;172;yes;Pisces
+male;63;178;green;brown;43;;2;2;no;Degree;162;yes;Secondary;184;yes;Cancer
+male;72;186;brown;brown;42;2;2;1;yes;Upper Secondary;165;no;Secondary;178;no;Aquarius
+female;65;158;brown;blonde;36;1;1;1;no;Upper Secondary;150;no;Degree;170;no;Leo
+male;85;176;brown;black;43;3;2;2;yes;Secondary;161;no;Secondary;175;no;Gemini
+male;75;182;brown;brown;43;4;4;4;yes;Secondary;170;no;Secondary;180;no;Gemini
+male;85;191;brown;brown;44;4;3;4;yes;Secondary;172;no;Secondary;175;no;Aquarius
+female;61;163;brown;darkbrown;38;;3;3;no;Degree;159;no;Secondary;183;no;Taurus
+male;62;180;brown;brown;42;4;2;2;no;Upper Secondary;170;no;Degree;178;no;Cancer
+male;65;177;brown;brown;41;3;3;4;yes;Secondary;160;no;Degree;166;no;Virgo
+male;76;178;graygreen;brown;43;1;3;3;no;Secondary;;no;Upper Secondary;;no;Sagittarius
+male;78;178;green;brown;43;1;2;2;no;Secondary;172;no;Degree;186;no;Pisces
+male;65;178;brown;brown;45;3;2;3;;Secondary;160;;Secondary;;;Aries
+male;77;183;blue;brown;44;3;4;3;yes;Secondary;160;no;Upper Secondary;193;no;Cancer
+male;90;189;black;black;44;3;4;2;no;Degree;170;no;Degree;190;no;Pisces
+male;75;188;brown;redblonde;49;2;1;2;no;Upper Secondary;169;no;Degree;180;no;Aries
+male;60;175;brown;black;42;1;4;2;no;Upper Secondary;165;no;Degree;170;no;Aries
+male;83;183;black;black;44;2;2;3;yes;Upper Secondary;169;no;Upper Secondary;179;no;Aquarius
+male;68;172;brown;black;41;3;;4;no;Degree;160;no;Degree;170;no;Taurus
+male;75;175;blue;blonde;45;3;3;1;yes;Secondary;170;no;Secondary;175;yes;Libra
+female;60;169;brown;brown;39;1;;1;no;Upper Secondary;160;no;Degree;182;yes;Scorpio
+female;65;174;blue;red;39;1;4;2;no;Secondary;167;no;Secondary;175;no;Scorpio
+male;78;183;brown;brown;42;3;;4;no;Upper Secondary;172;yes;Secondary;176;yes;Sagittarius
+male;72;182;brown;darkbrown;43;4;4;2;no;Upper Secondary;170;no;Upper Secondary;180;yes;Sagittarius
+male;81;180;brown;gray;44;1;1;1;no;Upper Secondary;160;no;Upper Secondary;165;no;Libra
+male;89;185;brown;brown;45;3;1;2;no;Degree;179;no;Secondary;172;yes;Sagittarius
+male;60;182;blue;darkblonde;42;1;4;2;yes;Upper Secondary;180;no;Upper Secondary;174;no;Libra
+male;84;180;brown;brown;42;2;2;2;yes;Secondary;167;yes;Secondary;178;no;Taurus
+female;49;164;green;lightbrown;37;3;3;4;no;Degree;168;no;Upper Secondary;167;yes;Leo
+male;75;180;brown;brown;43;;3;2;yes;Upper Secondary;168;no;Upper Secondary;186;no;Gemini
+male;65;173;blue;brown;42;3;4;4;yes;Upper Secondary;169;yes;Degree;180;no;Leo
+male;75;175;brown;black;42;3;4;3;yes;Upper Secondary;165;yes;Upper Secondary;195;no;
+male;90;183;bluegreen;brown;42;4;1;3;no;Secondary;165;no;Secondary;185;no;Virgo
+male;79;183;blue;red;43;;2;;yes;;168;no;;165;no;Pisces
+male;69;175;blue;brown;43;2;2;1;no;Secondary;170;no;Secondary;168;no;Libra
+male;95;187;green;brown;45;1;1;1;no;Upper Secondary;165;no;Upper Secondary;180;no;Aquarius
+female;83;175;blue;darkblonde;39;4;4;4;no;Secondary;172;no;Secondary;182;no;Aries
+male;75;178;blue;darkbrown;43;3;4;4;yes;Secondary;165;yes;;185;yes;Libra
+female;49;162;brown;black;37;1;1;2;no;Secondary;158;no;Upper Secondary;171;yes;Leo
+male;63;178;bluegray;brown;42;3;1;2;no;Degree;170;no;Degree;173;no;Pisces
+male;63;170;graygreen;darkbrown;42;2;2;1;no;Degree;160;no;Degree;186;no;Gemini
+male;63;183;blue;darkbrown;44;;3;2;no;Secondary;164;no;Secondary;181;no;Aries
+male;75;195;brown;brown;45;1;3;4;no;Secondary;160;no;Secondary;180;no;Libra
+male;70;177;blue;brown;43;2;3;3;no;Upper Secondary;158;no;Secondary;176;no;Taurus
+male;74;185;brown;darkbrown;43;3;3;1;no;Upper Secondary;170;no;Degree;180;yes;Cancer
+male;74;186;blue;blonde;47;4;4;4;no;Degree;169;no;Upper Secondary;178;yes;
+male;79;183;brown;brown;43;2;2;4;yes;Secondary;165;no;Upper Secondary;180;no;Aquarius
+male;63;190;blue;brown;44;2;1;2;no;Secondary;168;no;Secondary;177;no;Sagittarius
+female;68;173;brown;blonde;41;;;3;no;Secondary;169;no;Secondary;175;no;Pisces
+male;75;187;green;brown;45;1;1;1;no;Upper Secondary;168;no;Upper Secondary;183;no;Taurus
+male;80;181;brown;brown;44;1;2;3;no;Upper Secondary;165;no;Degree;175;no;Capricorn
+male;75;178;blue;blonde;46;1;1;1;no;Secondary;159;no;Upper Secondary;172;no;Gemini
+male;72;178;blue;blonde;42;2;3;1;no;Degree;165;no;Degree;168;no;Aquarius
+male;62;169;blue;brown;42;1;1;1;no;Degree;162;no;Degree;170;no;Capricorn
+male;70;175;green;red;42;3;4;3;yes;Upper Secondary;169;no;Upper Secondary;185;yes;Virgo
+female;64;163;bluegreen;darkbrown;39;1;1;1;no;Secondary;158;no;Secondary;178;yes;Gemini
+male;65;178;bluegray;brown;41;;3;2;yes;Secondary;;no;Secondary;;no;Taurus
+female;64;175;greenbrown;brown;39;1;1;2;no;Upper Secondary;167;no;Secondary;180;no;Cancer
+male;85;185;bluegreen;brown;46;;4;;no;Secondary;170;no;Secondary;175;no;Aquarius
+male;67;181;darkbrown;brown;42;;2;;no;Upper Secondary;170;no;Upper Secondary;178;no;Cancer
+male;70;178;green;;42;;2;2;no;Degree;;;Degree;;;Libra
+male;70;180;brown;brown;41;3;2;1;yes;Degree;162;no;Degree;180;no;Gemini
+female;52;164;green;blonde;40;3;3;4;no;Upper Secondary;171;yes;Degree;183;no;Libra
+female;58;171;blue;blonde;39;;1;;no;Degree;164;no;Upper Secondary;192;no;Scorpio
+male;63;175;brown;brown;42;;;;no;Secondary;170;no;Secondary;185;no;Cancer
+male;72;179;blue;blonde;46;2;1;1;no;Upper Secondary;172;yes;Degree;178;no;Aquarius
+female;54;171;graygreen;brown;40;1;3;2;yes;Secondary;172;no;Secondary;171;yes;Libra
+female;58;165;green;darkblonde;39;4;3;2;yes;Secondary;170;no;Degree;170;no;Virgo
+female;68;172;green;blonde;38;3;2;2;yes;Secondary;175;yes;Upper Secondary;185;yes;Sagittarius
+male;62;178;brown;brown;41;1;;;no;Degree;157;no;Degree;175;no;Libra
+female;54;164;green;brown;38;1;3;2;no;Secondary;161;no;Upper Secondary;170;no;Cancer
+male;68;183;brown;darkbrown;44;1;1;1;no;Upper Secondary;170;no;Secondary;172;no;Libra
+male;84;184;brown;brown;46;2;1;1;yes;Degree;164;no;Degree;186;no;Capricorn
+female;63;163;green;blonde;38;2;4;3;no;Secondary;165;no;Secondary;174;no;Sagittarius
+male;68;182;brown;black;43;;;;;Upper Secondary;162;;Degree;175;;Virgo
+female;45;163;green;blonde;38;1;4;1;no;Secondary;168;no;Secondary;175;no;Sagittarius
+male;70;180;brown;brown;42;3;3;3;yes;Secondary;165;yes;Upper Secondary;186;no;
+male;62;178;brown;brown;42;2;1;2;yes;Upper Secondary;170;no;Secondary;175;yes;
+female;60;170;blue;blonde;37;2;2;2;no;;170;;Upper Secondary;180;no;
+female;64;173;blue;blonde;40;3;4;4;no;Degree;164;yes;;;;Virgo
+male;70;177;blue;blonde;43;1;3;4;no;Secondary;165;no;Upper Secondary;174;no;Aries
+female;55;169;blue;blonde;38;2;4;3;no;Upper Secondary;165;no;Secondary;;no;Taurus
+female;49;159;blue;lightbrown;37;1;1;;yes;Degree;160;no;Degree;175;no;
+female;69;168;green;darkblonde;39;3;2;1;yes;Degree;164;no;Degree;175;no;Taurus
+female;55;170;blue;brown;40;2;2;2;yes;Secondary;163;no;Secondary;175;no;Pisces
+female;67;175;blue;red;39;3;1;2;yes;Secondary;163;no;Secondary;185;yes;Virgo
+female;58;176;green;brown;42;4;2;2;no;Degree;175;no;Upper Secondary;180;no;Pisces
+male;88;195;brown;lightbrown;45;1;2;2;no;Secondary;172;no;Secondary;185;no;Sagittarius
+male;55;168;brown;brown;41;2;4;2;yes;Upper Secondary;160;no;Upper Secondary;165;yes;Aries
+male;70;192;green;brown;47;;2;;yes;Degree;163;no;Degree;184;no;Gemini
+male;75;;black;black;44;;;;no;Secondary;;no;Degree;;no;Gemini
+male;68;175;bluegreengray;blonde;42;4;3;3;yes;Secondary;;no;Secondary;;no;Pisces
+male;70;175;gray;blonde;41;1;1;1;no;Upper Secondary;160;no;Degree;180;no;Capricorn
+male;76;180;bluegray;blonde;45;1;1;1;no;Secondary;172;no;Upper Secondary;180;no;Aquarius
+female;75;176;blue;blonde;41;1;1;1;no;Degree;172;no;Degree;185;no;Leo
+male;77;175;brown;brown;43;4;3;3;no;Upper Secondary;170;no;Upper Secondary;176;yes;Cancer
+female;56;160;blue;blonde;37;;2;1;no;Secondary;156;no;Secondary;170;no;Cancer
+male;62;178;brown;brown;42;2;1;2;yes;Upper Secondary;170;no;Secondary;175;yes;
+female;60;178;brown;brown;39;2;1;1;no;Degree;165;no;Degree;178;no;
+male;73;174;gray;darkblonde;43;1;1;1;no;Degree;165;no;Degree;172;no;Taurus
+male;74;177;bluegray;darkblonde;41;1;1;3;no;Upper Secondary;168;no;Secondary;173;no;Aquarius
+male;73;176;brown;brown;44;3;4;2;no;Upper Secondary;160;no;Upper Secondary;170;no;
+male;80;180;brown;gray;43;1;1;1;no;Degree;160;no;Upper Secondary;;no;
+male;87;195;blue;darkblonde;45;3;3;4;no;Upper Secondary;175;no;Secondary;184;yes;Gemini
+male;62;173;blue;darkblonde;43;4;1;3;no;;165;no;;175;yes;Taurus
+female;49;174;brown;brown;39;2;3;4;yes;Upper Secondary;165;no;Degree;180;yes;Taurus
+male;68;174;brown;brown;43;;;;yes;Secondary;165;no;Degree;170;no;Virgo
+male;66;177;brown;brown;44;1;1;1;no;Secondary;161;no;Secondary;166;no;Gemini
+male;68;169;blue;brown;43;1;3;3;yes;Secondary;164;no;Secondary;176;no;Capricorn
+male;98;187;bluegray;;44;4;3;4;yes;Degree;;no;Upper Secondary;;yes;Virgo
+male;62;180;brown;brown;42;;;;no;Secondary;170;no;Upper Secondary;175;no;Leo
+male;85;186;brown;brown;42;2;2;4;no;Secondary;170;no;Secondary;180;no;Aquarius
+female;63;168;bluegreen;blonde;40;1;1;1;no;Secondary;164;no;Secondary;176;no;Capricorn
+male;81;184;blue;brown;42;3;4;3;no;Upper Secondary;170;yes;Degree;178;no;Leo
+male;86;185;gray;brown;45;3;2;2;no;Upper Secondary;155;no;Degree;184;no;Pisces
+male;70;180;gray;darkblonde;43;3;2;2;no;Upper Secondary;155;no;Upper Secondary;178;no;Leo
+male;80;187;green;brown;46;3;3;3;no;Secondary;;no;Secondary;;yes;
+male;68;174;darkbrown;brown;43;2;4;4;yes;Secondary;164;no;Degree;175;no;Cancer
+male;95;186;brown;brown;46;;3;3;yes;Secondary;162;yes;Secondary;183;yes;Leo
+male;62;178;brown;brown;42;2;1;2;yes;Upper Secondary;169;no;Secondary;175;yes;Cancer
+female;50;175;brown;brown;39;2;3;4;yes;Upper Secondary;165;no;Degree;180;yes;Taurus
+female;60;168;brown;brown;40;4;4;4;no;Secondary;167;yes;Secondary;186;yes;Taurus
+male;78;178;blue;lightbrown;43;4;3;4;no;Upper Secondary;163;no;Degree;174;no;Pisces
+male;74;185;blue;blonde;47;4;4;4;no;Degree;169;no;Upper Secondary;178;yes;Aries
+male;75;185;bluegray;brown;45;4;4;4;no;Upper Secondary;162;yes;Degree;178;no;Leo
+female;40;168;blue;brown;37;2;2;3;yes;Secondary;170;yes;Secondary;185;yes;Virgo
+male;85;184;green;brown;45;4;3;3;yes;Upper Secondary;165;no;Degree;170;no;Aquarius
+male;80;190;graygreen;brown;44;3;1;2;no;Secondary;174;no;Secondary;176;no;Gemini
+male;92;184;blue;blonde;45;2;3;3;no;Secondary;162;no;Secondary;180;no;Pisces
+male;83;182;brown;brown;44;3;4;4;no;Upper Secondary;170;yes;Upper Secondary;170;no;Aries
+male;65;179;darkbrown;black;44;1;1;1;no;Upper Secondary;173;no;Degree;175;no;Scorpio
+male;65;180;green;brown;44;2;2;2;yes;Secondary;152;no;Secondary;173;yes;Sagittarius
+male;76;183;blue;blonde;43;3;2;2;yes;Secondary;175;no;Upper Secondary;180;no;Pisces
+male;60;180;brown;brown;42;2;2;3;no;Upper Secondary;165;no;Degree;185;no;Virgo
+male;85;190;blue;darkblonde;45;;1;1;no;Upper Secondary;174;no;Upper Secondary;180;yes;Gemini
+male;74;185;brown;brown;45;;2;2;yes;Secondary;164;no;Secondary;180;no;Gemini
+male;68;178;brown;darkbrown;42;4;1;2;no;Secondary;155;yes;Degree;160;no;Taurus
+male;82;185;blue;darkblonde;45;;1;;no;Upper Secondary;175;no;Secondary;180;yes;Leo
+male;75;180;greenbrown;brown;44;3;4;3;no;Secondary;158;no;Secondary;173;no;Sagittarius
+male;72;181;bluegray;lightbrown;44;2;2;1;yes;Upper Secondary;167;no;Degree;175;no;Cancer
+male;75;177;brown;black;42;2;2;;yes;;;no;Secondary;;no;Virgo
+male;65;173;blue;brown;43;3;3;3;yes;Upper Secondary;165;no;Degree;185;no;Pisces
+male;73;180;greenbrown;brown;45;1;2;3;no;Degree;168;no;Degree;180;no;Libra
+male;66;172;brown;brown;42;3;4;4;yes;Secondary;162;no;Degree;174;no;Cancer
+male;72;176;brown;brown;42;2;4;4;yes;Secondary;165;yes;Secondary;185;yes;Libra
+male;62;164;blue;brown;41;;2;4;no;Degree;175;no;Degree;180;yes;Gemini
+male;118;199;blue;brown;47;2;3;3;no;Upper Secondary;175;no;Degree;189;yes;Taurus
+female;52;168;brown;brown;39;1;1;2;no;Secondary;169;no;Secondary;175;yes;Aries
+male;70;179;blue;brown;44;1;2;2;yes;Upper Secondary;170;yes;Degree;175;no;Aquarius
+female;63;175;greenbrown;brown;39;1;1;2;no;Upper Secondary;168;no;Secondary;180;no;Cancer
+female;54;171;graygreen;brown;40;1;3;2;yes;Secondary;172;no;Secondary;;yes;Libra
+male;73;176;brown;red;44;3;4;2;no;Upper Secondary;160;no;Upper Secondary;170;no;Aries
+male;75;179;blue;blonde;45;1;1;1;no;Secondary;159;no;Upper Secondary;172;no;Gemini
+male;70;182;brown;black;44;1;1;1;no;Degree;162;yes;Degree;175;no;Libra
+female;45;156;brown;brown;36;3;1;1;;;;;;;;Scorpio
+male;65;174;graygreen;brown;45;2;2;1;no;Degree;165;no;Degree;170;no;Taurus
+male;72;185;blue;brown;43;2;2;1;no;Upper Secondary;176;no;Upper Secondary;178;no;Gemini
+female;46;168;brown;darkbrown;36;;2;1;yes;Upper Secondary;168;yes;Degree;174;no;Leo
+female;62;167;brown;brown;40;1;1;1;no;Degree;163;no;Degree;175;no;Virgo
+male;120;187;brown;black;46;;4;;no;Secondary;158;no;Secondary;170;no;Taurus
+female;68;167;green;blonde;39;3;3;1;no;Upper Secondary;165;no;Upper Secondary;182;no;Gemini
+female;52;160;blue;red;38;1;3;1;yes;Secondary;155;no;Upper Secondary;170;no;Leo
+male;64;182;blue;darkblonde;44;4;3;1;no;Secondary;164;no;Degree;180;no;Sagittarius
+female;54;163;green;brown;38;2;2;2;yes;Secondary;170;no;Degree;180;yes;Libra
+male;65;176;blue;blonde;42;2;1;4;no;Upper Secondary;165;no;Degree;182;no;Aries
+female;68;173;brown;black;41;;;3;no;Secondary;170;no;Secondary;175;no;Pisces
+male;69;185;green;brown;44;1;4;3;no;Secondary;165;no;Secondary;175;no;Taurus
+male;55;170;bluegreen;brown;42;;;;yes;Secondary;170;no;Upper Secondary;185;no;Cancer
+male;82;178;brown;black;43;1;3;3;no;Upper Secondary;161;yes;Secondary;173;no;Leo
+male;72;179;bluegreen;black;43;2;1;1;no;Upper Secondary;165;no;Secondary;178;no;Taurus
+male;70;172;brown;brown;41;3;2;3;yes;Secondary;163;no;Secondary;177;no;Leo
+male;65;185;brown;brown;43;2;3;3;yes;Upper Secondary;169;;Degree;179;no;Aquarius
+male;75;167;blue;black;42;3;2;2;yes;Secondary;165;no;Secondary;170;no;Libra
+male;78;178;blue;blonde;45;2;3;;no;Degree;;no;Secondary;;no;Aquarius
+male;65;182;gray;darkbrown;42;;2;2;no;Secondary;165;no;Secondary;175;no;Cancer
+male;85;185;blue;darkblonde;44;1;1;2;no;Secondary;164;no;Secondary;187;no;Libra
+female;55;163;brown;darkbrown;38;3;1;1;yes;Upper Secondary;164;no;Secondary;172;no;Pisces
+male;83;190;bluegray;darkblonde;44;2;4;3;no;Secondary;175;no;Degree;188;no;Cancer
+male;;;;;;;1;;no;;;;;;;
+male;72;185;green;brown;45;2;3;1;no;Upper Secondary;165;no;Degree;175;yes;Leo
+male;68;182;green;brown;43;3;4;3;no;Secondary;172;no;Upper Secondary;172;no;Pisces
+male;73;178;blue;brown;43;;4;;yes;Secondary;160;yes;Upper Secondary;174;no;Leo
+male;93;182;brown;blonde;45;3;3;4;no;Upper Secondary;168;yes;Degree;182;no;Capricorn
+male;77;186;blue;darkbrown;45;2;3;;no;Secondary;160;no;Degree;186;no;Aries
+male;74;181;blue;brown;46;1;2;1;no;Upper Secondary;;no;Degree;;no;Taurus
+male;68;164;brown;brown;41;3;3;;yes;Secondary;160;no;Secondary;170;no;Taurus
+male;60;173;brown;brown;44;4;4;3;no;Upper Secondary;158;no;Secondary;170;no;Virgo
+male;80;176;blue;blonde;43;2;2;3;yes;Upper Secondary;160;yes;Upper Secondary;170;no;Libra
+female;70;168;brown;brown;39;;1;1;no;Secondary;158;no;Secondary;186;no;Scorpio
+female;72;176;blue;darkblonde;42;;3;;yes;Upper Secondary;162;no;Secondary;179;yes;Capricorn
+male;73;185;green;brown;45;1;2;3;yes;Secondary;160;no;Upper Secondary;190;no;Capricorn
+male;60;185;brown;darkbrown;45;4;2;3;no;Secondary;165;no;Secondary;175;no;Aries
+female;55;172;green;bald;38;3;2;2;no;Upper Secondary;165;no;Upper Secondary;180;no;Pisces
+male;67;177;brown;darkbrown;44;3;2;1;no;Degree;160;no;Degree;172;no;Aries
+male;67;178;bluebrown;brown;45;2;;2;no;Secondary;170;no;Secondary;183;no;Gemini
+male;85;170;brown;black;41;3;;2;no;Upper Secondary;;no;Secondary;;no;Scorpio
+female;65;168;blue;brown;38;2;3;3;yes;Upper Secondary;168;no;Secondary;190;no;Sagittarius
+male;62;178;brown;black;42;;;;no;Upper Secondary;158;no;Upper Secondary;170;no;Cancer
+female;63;172;blue;darkblonde;39;3;1;1;no;Secondary;174;no;Upper Secondary;182;no;Scorpio
+male;68;183;blue;blonde;43;1;;3;no;Degree;169;no;Degree;176;no;Leo
+male;58;170;brown;brown;42;4;3;4;yes;Upper Secondary;165;no;Secondary;187;no;Sagittarius
+female;54;166;bluegray;lightbrown;40;2;3;;no;Upper Secondary;169;no;Degree;182;no;Scorpio
+male;78;180;brown;black;45;2;2;4;yes;Upper Secondary;170;no;Upper Secondary;175;yes;Pisces
+male;66;178;brown;black;41;1;2;2;no;Degree;169;no;Secondary;176;no;Gemini
+male;68;180;brown;brown;43;2;1;2;no;Degree;175;no;Degree;185;no;Scorpio
+male;67;172;green;brown;42;3;;1;no;Degree;165;no;Degree;180;no;Libra
+male;67;183;brown;brown;42;2;1;1;no;Degree;167;no;Degree;182;yes;Libra
+male;70;180;blue;brown;41;2;2;;no;Degree;169;no;Degree;176;no;Gemini
+male;64;182;blue;brown;43;1;1;1;yes;Upper Secondary;160;yes;Upper Secondary;176;no;Libra
+male;66;187;blue;blonde;43;1;3;3;no;Secondary;;no;Upper Secondary;;no;Aquarius
+male;65;187;brown;black;43;3;2;2;yes;Secondary;;no;Secondary;;no;Taurus
+male;70;176;brown;brown;42;1;1;2;no;Degree;155;;Degree;173;no;Aries
+male;74;188;brown;blondebrown;46;2;3;2;no;Degree;165;no;Degree;185;no;
+male;75;180;blue;brown;44;2;1;2;no;Degree;170;no;Secondary;175;no;Libra
+male;85;187;brown;brown;44;;;;no;Upper Secondary;172;no;Degree;175;no;Pisces
+male;76;184;greenbrown;blonde;;3;2;3;yes;Secondary;181;no;Secondary;183;no;Aquarius
+male;78;178;graygreen;black;44;4;1;3;yes;Secondary;160;no;Upper Secondary;162;no;Aries
+male;65;175;bluegray;darkblonde;43;1;1;1;no;Upper Secondary;160;no;Degree;188;no;Aries
+female;53;163;blue;blonde;39;;1;;no;Upper Secondary;162;no;Degree;173;no;
+male;70;183;blue;brown;43;3;4;3;no;Upper Secondary;;;Upper Secondary;;no;Taurus
+male;70;165;brown;brown;40;3;3;3;no;Degree;160;no;Degree;163;no;Cancer
+female;63;165;greenbrown;brown;38;;3;3;no;;;no;;;no;
+male;84;183;brown;darkbrown;48;2;1;1;no;Secondary;163;no;;185;no;
+female;62;168;blue;brown;39;2;1;2;no;Upper Secondary;164;yes;Degree;185;yes;Aquarius
+female;64;167;blue;blonde;38;3;2;1;no;Upper Secondary;163;no;Degree;174;yes;Sagittarius
+male;62;176;brown;brown;42;2;2;;no;Secondary;168;no;Upper Secondary;175;no;Cancer
+male;61;181;blue;blonde;44;4;4;3;yes;Secondary;165;yes;Secondary;180;yes;Gemini
+male;72;183;bluegreen;blonde;43;1;2;;yes;Secondary;165;no;Degree;179;no;Capricorn
+male;110;190;graygreen;brown;46;4;3;2;no;Secondary;168;yes;Upper Secondary;175;yes;Aries
+male;66;181;blue;brown;43;1;1;2;no;Upper Secondary;158;no;Upper Secondary;168;no;Taurus
+female;51;159;brown;brown;40;1;1;1;no;Degree;165;no;Degree;169;no;Leo
+male;58;176;blue;brown;42;1;2;1;no;Secondary;156;yes;Secondary;178;no;Leo
+male;75;184;bluegreen;brown;44;2;2;3;yes;Upper Secondary;164;no;Secondary;170;no;Sagittarius
+male;67;181;bluegray;brown;44;1;;1;no;Upper Secondary;156;no;Degree;175;no;Gemini
+male;58;175;brown;lightbrown;39;1;1;2;yes;Secondary;170;no;Secondary;175;no;Aquarius
+male;86;191;blue;brown;43;3;4;4;no;Secondary;170;no;Secondary;180;no;Capricorn
+male;70;168;green;brown;42;;;;no;Degree;;no;Degree;;no;Aries
+female;60;164;brown;blonde;39;1;1;1;no;Degree;164;no;Degree;189;no;Libra
+male;69;181;brown;brown;45;2;2;2;no;Upper Secondary;165;no;Upper Secondary;185;no;Cancer
+male;78;182;black;black;45;4;4;3;yes;Upper Secondary;;no;Degree;;no;
+male;70;177;blue;darkbrown;42;2;4;4;no;Secondary;171;no;Secondary;178;no;Virgo
+male;75;191;brown;brown;45;2;1;2;no;Degree;173;no;Degree;183;yes;Scorpio
+male;66;170;brown;brown;42;;1;;yes;Upper Secondary;155;no;Secondary;167;no;Aries
+female;52;164;green;blonde;37;1;2;2;no;Degree;171;no;Degree;182;no;Libra
+female;55;168;bluegreen;blonde;39;2;1;1;yes;Degree;170;no;Degree;174;no;Leo
+female;60;164;brown;brown;38;;1;3;no;Secondary;165;no;Secondary;192;no;Taurus
+male;75;175;bluegray;brown;44;2;1;;no;Upper Secondary;165;no;Upper Secondary;172;yes;Aquarius
+male;80;180;brown;brown;44;3;4;4;no;Secondary;165;no;Secondary;170;no;Scorpio
+male;85;175;blue;blonde;42;2;1;;no;Secondary;163;no;Upper Secondary;185;no;Virgo
+female;75;169;brown;darkblonde;37;3;4;2;yes;Secondary;164;no;Secondary;172;no;Leo
+male;66;177;blue;brown;42;;2;1;yes;Secondary;165;no;Secondary;182;no;Virgo
+male;66;165;brown;black;41;4;3;2;no;Secondary;155;yes;Upper Secondary;171;no;Pisces
+female;54;163;blue;blonde;37;1;2;;no;Secondary;157;yes;Secondary;182;yes;Virgo
+male;75;170;bluegray;darkbrown;41;3;3;2;yes;Degree;165;no;Degree;170;no;Gemini
+male;70;182;brown;brown;42;3;4;4;yes;Upper Secondary;170;no;Degree;185;no;Capricorn
+male;66;190;green;brown;45;2;1;1;no;Degree;165;no;Upper Secondary;180;no;Taurus
+male;74;174;blue;darkblonde;42;3;2;2;no;Secondary;165;no;Upper Secondary;172;no;
+female;65;170;brown;brown;40;4;2;3;no;Secondary;;no;Degree;;no;Capricorn
+male;71;175;brown;brown;43;3;1;2;no;Upper Secondary;162;yes;;172;no;Gemini
+male;78;182;brown;darkbrown;43;2;2;2;no;Upper Secondary;165;no;Upper Secondary;173;no;
+male;70;178;brown;brown;41;2;1;2;no;Upper Secondary;174;no;Secondary;173;no;
+male;83;185;brown;brown;46;3;4;4;no;Secondary;165;no;Secondary;167;no;Sagittarius
+male;65;178;brown;brown;43;3;3;2;no;Degree;;no;Degree;;no;Leo
+male;63;182;blue;darkblonde;43;;1;1;no;Secondary;166;no;Upper Secondary;182;no;Taurus
+male;80;188;blue;brown;46;3;4;4;no;Secondary;;yes;Secondary;;yes;Taurus
+male;84;185;blue;blonde;44;2;2;1;yes;Degree;165;no;Degree;187;no;Scorpio
+male;75;195;green;blonde;46;3;4;2;no;Secondary;178;yes;Secondary;188;yes;Leo
+female;58;170;green;red;38;4;3;3;yes;Secondary;158;no;Secondary;175;yes;Taurus
+male;85;184;blue;darkbrown;43;2;4;3;no;Secondary;165;no;Upper Secondary;170;no;Capricorn
+male;85;185;green;blonde;45;1;1;1;no;Upper Secondary;170;no;Degree;190;no;
+female;60;176;brown;brown;41;;3;3;no;Secondary;160;no;Secondary;180;no;Capricorn
+female;;170;blue;darkbrown;42;1;3;3;no;Secondary;155;yes;Secondary;175;no;Capricorn
+male;73;180;brown;lightbrown;43;1;2;1;no;Degree;170;no;Degree;175;no;Libra
+male;67;187;blue;brown;43;3;2;1;no;Upper Secondary;175;no;Upper Secondary;178;no;Gemini
+female;62;173;blue;blonde;40;1;1;2;no;Upper Secondary;175;no;Degree;191;no;Aries
+female;56;165;brown;brown;40;1;3;3;no;Secondary;;no;Secondary;;no;Aquarius
+male;125;190;green;black;46;2;3;;yes;Secondary;154;no;Secondary;170;yes;Leo
+male;90;189;bluegray;brown;45;2;3;4;no;Upper Secondary;;no;Secondary;;no;Pisces
+male;65;180;green;black;42;4;2;3;no;Degree;;no;Degree;;no;Taurus
+male;85;190;blue;lightbrown;44;1;1;3;no;Secondary;162;no;Secondary;172;no;Aries
+male;71;170;turquoise;brown;42;3;1;2;no;Degree;160;no;Degree;165;no;Cancer
+female;58;173;brown;brown;40;2;1;2;no;Upper Secondary;172;no;Degree;182;no;Aries
+male;80;185;blue;blonde;43;2;2;3;yes;Upper Secondary;;no;Degree;;no;Leo
+male;84;187;blue;brown;43;2;3;3;no;Degree;173;no;Degree;187;no;Virgo
+male;80;192;brown;brown;43;4;2;;no;Secondary;;no;Degree;182;no;Libra
+female;60;164;blue;lightbrown;40;;1;3;yes;Secondary;158;yes;Upper Secondary;;no;Gemini
+male;65;183;brown;brown;46;1;1;2;no;Degree;170;no;Degree;180;no;Aries
+male;80;170;blue;brown;42;1;1;3;no;Upper Secondary;165;yes;Upper Secondary;175;yes;Aries
+male;67;179;blue;darkblonde;43;3;2;1;no;Degree;165;no;Degree;178;no;Sagittarius
+male;72;181;brown;blonde;42;;3;3;no;Secondary;165;no;Secondary;175;no;
+male;75;183;blue;blonde;43;4;3;2;no;Upper Secondary;163;no;Secondary;180;no;Aquarius
+female;59;168;graygreen;blonde;40;1;1;1;no;Secondary;164;no;Secondary;176;no;Capricorn
+female;60;170;green;darkblonde;40;1;1;1;no;Upper Secondary;165;no;Degree;;no;Scorpio
+female;50;163;brown;brown;36;2;4;2;yes;Upper Secondary;164;yes;Degree;179;yes;
+male;65;185;brown;brown;44;1;2;1;yes;Upper Secondary;168;no;Degree;183;no;Virgo
+male;65;178;brown;brown;42;1;;;no;Secondary;170;no;Secondary;180;yes;Leo
+female;68;172;brown;lightbrown;38;1;4;;no;Upper Secondary;169;no;Degree;182;no;Capricorn
+female;65;169;bluegreen;blonde;39;;;;yes;Upper Secondary;168;;;190;yes;Scorpio
+female;62;174;green;brown;39;1;1;2;no;Upper Secondary;160;no;Secondary;180;no;Cancer
+male;60;182;blue;blondebrown;43;;1;2;no;Secondary;160;no;Secondary;186;yes;Scorpio
+female;48;151;bluegray;blonde;36;2;4;2;yes;Upper Secondary;167;no;Upper Secondary;171;no;Cancer
+male;71;170;green;lightbrown;43;3;3;2;no;Upper Secondary;163;no;Degree;180;no;Aquarius
+male;60;167;blue;brown;40;1;1;;no;Degree;155;no;Degree;167;no;Aquarius
+female;57;170;blue;brown;37;1;3;2;no;Secondary;175;yes;Degree;176;no;Leo
+male;73;174;black;black;42;1;3;1;no;Degree;156;no;Degree;170;no;Aquarius
+male;75;184;graygreen;blonde;45;;;;yes;;;;;;;
+female;70;176;blue;blonde;41;1;1;1;no;Degree;168;no;Degree;185;no;Leo
+male;67;176;brown;white;42;1;1;;no;Degree;168;no;Degree;169;no;Aquarius
+female;50;165;blue;blonde;38;2;4;4;no;Secondary;169;yes;Secondary;172;yes;Leo
+female;47;163;gray;brown;40;4;3;4;yes;Secondary;160;yes;Upper Secondary;175;no;Sagittarius
+male;80;189;black;black;46;2;2;3;no;Upper Secondary;180;no;;189;no;Aquarius
+male;60;171;blue;darkblonde;41;3;3;1;yes;Secondary;165;no;Secondary;160;yes;Sagittarius
+male;60;175;blue;blonde;40;1;3;3;yes;Degree;175;no;Degree;178;no;Capricorn
+female;54;170;blue;brown;41;2;2;4;no;Secondary;176;no;Secondary;178;no;Pisces
+female;53;164;blue;blonde;39;1;1;1;yes;Degree;168;no;Upper Secondary;170;yes;Aquarius
+male;62;178;bluegreen;blonde;42;2;2;2;yes;Upper Secondary;156;no;Degree;175;no;Gemini
+male;;;;;;;;;no;Secondary;;no;Upper Secondary;;no;Gemini
+female;;168;brown;brown;;3;2;1;no;Upper Secondary;172;no;Degree;172;no;Pisces
+male;;;blue;brown;;;;;no;Degree;;no;Degree;;no;Pisces
+male;68;183;blue;darkbrown;42;3;3;2;yes;Upper Secondary;165;yes;Degree;184;no;Virgo
+male;80;185;brown;brownblack;48;1;3;2;no;Secondary;;yes;Degree;;yes;Pisces
+male;64;170;brown;brown;43;1;3;3;yes;Secondary;;no;Secondary;;no;Aries
+male;;175;brown;brown;;1;3;3;yes;Upper Secondary;;no;Upper Secondary;;no;Taurus
+male;69;181;brown;brown;46;1;3;;no;Degree;;no;Degree;;no;Aries
+male;90;190;brown;black;46;4;4;4;yes;Secondary;;no;Secondary;;no;Scorpio
+male;71;178;bluegreen;darkbrown;41;3;4;4;no;Degree;166;no;Degree;178;no;Virgo
+male;90;190;blue;darkblonde;44;2;3;4;no;Upper Secondary;152;no;Upper Secondary;168;yes;Taurus
+male;;;graygreen;brown;;;3;;no;Upper Secondary;;no;Upper Secondary;;yes;
+male;72;182;blue;brown;43;;3;;no;Upper Secondary;;no;Secondary;182;no;Virgo
+male;82;188;brown;brown;44;4;;;yes;Secondary;165;no;Upper Secondary;170;no;Sagittarius
+male;76;188;brown;brown;45;;;;no;Degree;;no;Degree;;no;Scorpio
+male;63;174;blue;darkbrown;43;1;;;no;Upper Secondary;;no;Upper Secondary;;yes;
+male;;;blue;brown;34;2;;3;no;Degree;;no;Degree;;no;Scorpio
+male;85;187;graygreen;brown;44;4;3;;yes;Upper Secondary;160;yes;Secondary;178;yes;Leo
+female;66;172;brown;redbrown;39;2;1;2;yes;Degree;164;no;Degree;184;no;Libra
+male;68;176;blue;brown;43;3;3;;no;Upper Secondary;178;yes;Secondary;180;yes;Cancer
+male;95;188;gray;brown;46;3;3;4;no;Secondary;;no;Secondary;;yes;Gemini
+male;77;172;green;brown;42;1;;1;;Upper Secondary;156;no;Upper Secondary;171;no;Pisces
+male;76;183;bluegray;blonde;43;4;3;3;yes;Upper Secondary;173;no;Upper Secondary;179;no;Cancer
+male;80;190;gray;brown;44;;;;yes;Degree;;yes;Degree;;yes;
+male;79;182;brown;brown;43;1;;3;no;Degree;;no;Degree;;no;Virgo
+male;90;173;blue;brown;42;3;3;3;yes;Degree;162;yes;Degree;170;no;Sagittarius
+male;90;177;brown;darkbrown;42;2;;;yes;Degree;;no;Degree;;no;Taurus
+female;53;160;bluegreen;blonde;38;;4;3;no;Secondary;155;no;Secondary;187;yes;Taurus
+male;83;178;brown;brown;43;;;;no;Secondary;;no;Secondary;;no;Aries
+male;83;178;brown;brown;43;;;;no;Secondary;;no;Secondary;;no;Aries
+male;78;182;brown;black;45;3;;3;no;Secondary;;yes;Upper Secondary;;no;Pisces
+male;75;186;;brown;48;2;1;;yes;Secondary;;no;Degree;180;no;Pisces
+male;65;180;brown;brown;42;1;;;no;Upper Secondary;167;no;Degree;170;no;Libra
+female;65;172;brown;brown;42;3;;2;no;;160;no;Upper Secondary;162;no;Virgo
+male;110;178;graygreen;brown;45;3;2;4;yes;Secondary;168;no;Secondary;180;no;
+female;64;184;darkbrown;darkbrown;41;;2;1;no;Upper Secondary;170;yes;Secondary;184;no;Aquarius
+male;70;172;bluegray;blonde;43;3;1;1;no;Upper Secondary;;no;Upper Secondary;;no;Gemini
+male;63;186;blue;brown;43;3;3;;no;Secondary;167;no;Degree;180;no;Leo
+male;59;164;graygreen;blonde;41;;;;no;Upper Secondary;;no;Upper Secondary;;no;
+male;73;174;brown;black;42;4;3;3;no;Secondary;160;no;Degree;173;no;
+female;53;163;brown;brown;38;2;3;3;no;Secondary;159;yes;Secondary;182;no;Taurus
+male;83;185;gray;blonde;44;2;1;1;yes;Upper Secondary;;no;Degree;;no;Pisces
+male;100;186;brown;brown;46;3;4;4;yes;Upper Secondary;172;yes;Degree;180;no;Sagittarius
+female;62;172;brown;black;40;3;1;;no;Upper Secondary;156;no;Upper Secondary;191;yes;
+male;83;182;brown;brown;43;1;2;1;no;Degree;;no;Degree;;no;
+male;65;185;gray;brown;44;1;1;2;no;Upper Secondary;;no;Upper Secondary;;no;Gemini
+male;79;180;graygreen;blonde;41;1;1;3;no;Degree;170;no;Degree;189;no;Leo
+male;89;185;bluegray;blonde;43;3;1;1;no;Upper Secondary;;no;Degree;;no;Libra
+male;;175;blue;;42;;1;;no;Secondary;;yes;;;no;
+male;72;182;blue;brown;44;;3;;no;Secondary;160;no;Secondary;180;no;Virgo
+male;70;185;graybrown;black;43;;;;yes;Secondary;166;no;Secondary;170;no;Aries
+male;76;182;bluegray;lightbrown;43;;3;;no;Secondary;155;no;Upper Secondary;188;no;Libra
+male;70;175;green;brown;42;;3;3;yes;Secondary;165;no;Secondary;176;no;Leo
+male;99;186;brown;brown;47;3;2;2;yes;Upper Secondary;175;no;Secondary;172;no;Capricorn
+male;70;185;brown;brown;48;1;3;2;yes;Secondary;;yes;Degree;;yes;
+male;86;180;brown;brown;43;3;2;2;no;Secondary;;no;Degree;175;yes;Cancer
+male;80;180;brown;brown;43;2;2;2;yes;Upper Secondary;;no;Secondary;;no;
+female;69;171;blue;red;39;1;2;1;no;Secondary;160;no;Upper Secondary;190;yes;Capricorn
+male;80;180;brown;brown;45;1;;3;no;Upper Secondary;158;no;Upper Secondary;183;no;Cancer
+male;90;205;greenbrown;darkbrown;;;;;no;Secondary;170;no;Secondary;195;no;Pisces
+male;63;174;brown;darkbrown;40;3;3;3;no;Secondary;;;Secondary;;no;
+female;58;175;greenbrown;darkbrown;40;3;1;1;no;Degree;166;no;Degree;198;no;Scorpio
+male;80;185;blue;brown;46;4;3;3;yes;Secondary;175;no;Secondary;170;no;Aries
+male;71;176;brown;brown;41;2;;2;no;Degree;162;no;Degree;174;no;Taurus
+male;80;170;brown;black;41;;;;no;Degree;;no;Upper Secondary;;;
+male;58;173;gray;blonde;40;4;4;3;no;Upper Secondary;168;yes;Degree;170;no;Aquarius
+male;70;181;blue;brown;43;1;3;3;yes;Secondary;165;no;Secondary;180;no;
+male;105;187;brown;brown;45;4;;;no;Degree;160;no;Degree;176;no;Taurus
+male;85;165;blue;blonde;41;1;2;3;no;Upper Secondary;160;no;Secondary;160;no;Sagittarius
+female;68;168;green;darkblonde;39;4;2;3;yes;Upper Secondary;156;no;Secondary;198;yes;Pisces
+male;70;178;graygreen;brown;43;;;;yes;Secondary;165;no;Upper Secondary;175;no;
+male;120;192;graygreen;red;48;3;3;4;yes;Upper Secondary;170;no;Secondary;185;yes;Capricorn
+male;78;178;blue;darkblonde;;2;3;;no;Upper Secondary;;no;Secondary;;no;Aquarius
+male;60;172;brown;brown;43;2;2;;no;Upper Secondary;;no;Secondary;;no;Aries
+male;62;174;bluegray;brown;42;4;4;4;no;Secondary;165;no;Degree;180;no;Gemini
+female;68;168;blue;darkblonde;38;2;2;4;no;Upper Secondary;169;no;Secondary;189;no;Sagittarius
+male;59;180;blue;brown;45;4;4;4;;Secondary;168;no;Secondary;180;no;Scorpio
+female;65;170;green;darkblonde;37;2;4;3;yes;Upper Secondary;165;no;Secondary;172;no;Cancer
+female;65;165;brown;brown;38;4;2;2;no;Degree;164;no;Upper Secondary;186;no;
+female;68;173;blue;blonde;40;3;4;4;no;Degree;163;yes;Degree;165;yes;Virgo
+female;64;175;blue;darkblonde;39;;2;1;yes;Secondary;168;no;Upper Secondary;178;no;Gemini
+male;74;185;greenbrown;brown;45;1;1;;no;Upper Secondary;173;no;Upper Secondary;185;no;Libra
+male;85;172;blue;gray;41;;;;no;Secondary;;no;Secondary;;no;Taurus
+female;65;180;greenbrown;lightbrown;41;;3;2;no;Secondary;173;no;Secondary;175;no;Aries
+male;90;180;blue;brown;43;2;3;2;no;Upper Secondary;165;no;Upper Secondary;175;no;Cancer
+male;70;178;brown;brown;43;4;4;3;no;Degree;170;no;Degree;165;no;Libra
+female;52;162;blue;brown;38;2;3;;yes;Degree;165;no;Upper Secondary;175;yes;Sagittarius
+male;65;175;blue;brown;43;1;1;3;yes;Upper Secondary;;no;Upper Secondary;;no;Aquarius
+female;89;158;green;brown;39;4;4;4;no;Upper Secondary;160;no;Secondary;170;no;Aquarius
+male;68;179;green;brown;43;3;3;1;yes;Degree;163;no;Degree;183;yes;Libra
+female;56;171;brown;brown;39;1;1;1;no;Degree;164;no;Degree;;no;Scorpio
+male;65;179;brown;brown;43;3;2;3;no;Secondary;155;no;Secondary;165;no;Libra
+female;67;173;blue;blonde;41;2;3;2;yes;Degree;162;yes;Degree;190;no;Libra
+male;62;179;brown;black;42;4;3;3;no;Upper Secondary;158;no;Upper Secondary;172;no;Cancer
+female;53;160;bluegray;brown;37;4;3;3;no;Upper Secondary;161;no;Secondary;175;no;Sagittarius
+male;55;175;graygreen;darkblonde;42;4;4;;no;Upper Secondary;164;no;Secondary;172;no;Aries
+female;60;170;bluegreengray;brown;40;1;4;3;no;Secondary;172;no;Secondary;185;no;Virgo
+female;67;172;brown;black;40;2;3;2;no;Degree;160;no;Degree;168;no;Libra
+male;79;171;greenbrown;brown;43;2;1;1;yes;Upper Secondary;163;yes;Degree;175;yes;Leo
+female;62;167;brown;brown;39;3;3;2;no;Upper Secondary;169;no;Degree;169;no;Taurus
+male;65;177;brown;brown;43;;1;1;no;Secondary;160;no;Upper Secondary;165;no;Gemini
+male;82;183;brown;brown;45;3;2;4;yes;Degree;160;no;Degree;182;yes;Cancer
+male;73;182;blue;brown;45;2;4;4;no;Secondary;165;no;Secondary;179;yes;Libra
+male;64;175;blue;blonde;42;1;1;3;no;Upper Secondary;;no;Upper Secondary;172;no;Leo
+male;70;176;bluegray;brown;43;2;3;4;no;Secondary;160;no;Secondary;174;no;Scorpio
+male;73;181;greenbrown;brown;44;1;1;1;yes;Secondary;170;no;Secondary;178;no;Capricorn
+female;52;162;brown;blonde;36;;3;3;yes;Secondary;157;no;Secondary;172;no;Pisces
+male;55;172;darkbrown;darkbrown;40;1;1;1;no;Upper Secondary;;no;Upper Secondary;;no;Leo
+female;55;165;brown;redbrown;39;2;1;;no;Secondary;160;no;Secondary;180;yes;Pisces
+male;;;;;;;3;;no;Upper Secondary;;no;Upper Secondary;;yes;
+female;65;168;green;red;39;4;2;;yes;Secondary;168;yes;Degree;185;no;Gemini
+female;57;165;bluegreen;darkblonde;38;3;2;4;no;Upper Secondary;150;no;Upper Secondary;180;no;Pisces
+male;77;178;darkbrown;black;43;4;4;3;no;Upper Secondary;;no;Upper Secondary;;no;Pisces
+female;39;160;blue;brown;37;1;3;2;yes;Degree;170;no;Degree;175;no;Aries
+male;53;165;brown;brown;40;1;3;2;yes;Degree;170;no;Degree;173;no;Capricorn
+male;84;188;brown;brown;44;4;2;;yes;Upper Secondary;;no;Upper Secondary;;no;Aquarius
+male;75;188;blue;brown;43;;1;1;yes;Degree;;yes;Degree;;no;Leo
+female;100;178;blue;purple;41;;1;1;no;Secondary;165;no;Secondary;173;yes;Sagittarius
+male;67;182;blue;brown;43;4;3;4;no;Upper Secondary;;yes;Degree;185;no;Capricorn
+female;60;165;brown;brown;38;4;2;3;no;Secondary;165;no;Secondary;175;no;Scorpio
+male;60;176;bluegreen;brown;42;1;2;1;no;Secondary;;yes;Secondary;;no;Leo
+female;53;172;blue;brown;39;;2;3;yes;Secondary;163;no;Secondary;180;no;Sagittarius
+female;40;152;brown;brown;34;1;4;4;no;Secondary;156;no;Secondary;170;no;Aries
+male;71;178;blue;blonde;43;4;3;1;yes;Upper Secondary;166;no;Degree;174;no;Capricorn
+female;40;152;brown;brown;34;1;4;4;no;Secondary;156;no;Secondary;170;no;Aries
+female;;164;brown;brown;39;;2;3;no;Upper Secondary;163;yes;Upper Secondary;182;no;Taurus
+female;54;166;brown;black;37;2;;;no;Upper Secondary;162;no;Degree;179;no;Pisces
+female;58;173;darkbrown;black;39;3;3;3;yes;Upper Secondary;178;no;Upper Secondary;176;no;Libra
+male;83;187;brown;darkblonde;43;4;2;3;yes;Degree;170;no;Degree;182;no;Aries
+male;69;178;green;brown;43;;2;2;no;Upper Secondary;160;yes;Upper Secondary;189;yes;Cancer
+male;63;164;blue;brown;42;;2;;no;Degree;;no;Degree;;no;Gemini
+male;70;178;brown;brown;43;2;3;1;yes;Secondary;;no;Secondary;;no;Taurus
+male;68;178;brown;brown;43;4;3;3;yes;Upper Secondary;168;yes;Upper Secondary;174;yes;Pisces
+male;;;brown;black;46;3;2;2;no;Upper Secondary;;yes;Degree;;yes;Gemini
+male;64;175;brown;brown;43;;;;no;Secondary;165;yes;Degree;174;yes;Sagittarius
+female;56;165;blue;brown;39;2;;4;yes;Secondary;153;no;Secondary;183;yes;Leo
+female;50;162;brown;brown;38;3;3;2;yes;Upper Secondary;160;yes;Secondary;174;yes;Capricorn
+female;72;172;greenbrown;brown;40;4;3;4;no;Upper Secondary;165;;Secondary;;;Aries
+male;75;179;blue;brown;44;3;3;1;no;Upper Secondary;155;no;Degree;;no;Cancer
+male;67;173;bluegreen;brown;42;2;4;3;no;Upper Secondary;158;no;Secondary;176;no;Taurus
+male;65;177;brown;brown;42;1;3;3;yes;Upper Secondary;162;no;Upper Secondary;176;no;Taurus
+male;58;174;green;black;42;1;1;1;yes;Upper Secondary;157;no;Upper Secondary;176;yes;Libra
+female;;154;brown;black;36;4;;2;no;Secondary;150;no;Secondary;169;yes;Aquarius
+female;53;162;brown;brown;39;;3;3;no;Secondary;158;no;Secondary;170;no;Cancer
+female;63;167;blue;blonde;38;3;2;1;no;Secondary;163;;Degree;174;yes;Sagittarius
+female;53;162;darkbrown;black;;3;;1;no;Upper Secondary;155;yes;Upper Secondary;160;yes;Sagittarius
+male;67;183;brown;brown;44;4;2;1;no;Upper Secondary;168;no;Degree;172;no;Virgo
+male;92;174;brown;black;42;;;;no;Upper Secondary;;no;;;no;Pisces
+male;75;174;brown;brown;42;1;2;;no;Degree;167;yes;Degree;172;no;Aquarius
+female;68;169;bluegreen;blonde;39;;;;yes;Secondary;168;no;Upper Secondary;;yes;
+male;69;179;black;black;43;2;4;2;no;Upper Secondary;155;no;Degree;165;no;Sagittarius
+male;79;178;green;lightbrown;42;2;;;yes;Upper Secondary;172;no;Upper Secondary;175;no;Pisces
+female;65;175;brown;brown;40;4;3;4;yes;Secondary;180;no;Secondary;185;yes;Leo
+male;80;183;bluegray;blonde;43;1;1;1;no;Degree;160;yes;Secondary;170;no;Pisces
+male;65;182;green;darkbrown;43;3;2;2;yes;Degree;;no;Upper Secondary;;no;Pisces
+female;50;158;blue;blonde;38;2;3;2;no;Secondary;158;no;Secondary;178;no;Pisces
+male;80;190;brown;blonde;46;2;3;2;yes;Upper Secondary;164;yes;Secondary;182;yes;Gemini
+male;88;187;brown;black;44;3;3;;no;Upper Secondary;166;no;Secondary;180;yes;Cancer
+male;90;176;blue;blonde;43;2;;1;no;Upper Secondary;165;no;Degree;186;no;Scorpio
+male;91;194;brown;brown;45;2;2;2;no;Upper Secondary;;no;Upper Secondary;;no;Scorpio
+male;67;175;bluegray;brown;42;1;2;1;no;Upper Secondary;168;yes;Secondary;;yes;Aquarius
+female;67;165;brown;black;39;3;;1;no;Degree;166;no;Upper Secondary;188;no;Virgo
+male;73;178;bluegreen;brown;42;2;;2;no;Secondary;;no;Upper Secondary;;no;
+male;110;180;blue;brown;45;2;4;4;no;Upper Secondary;165;no;Upper Secondary;175;no;Pisces
+female;65;170;brown;brown;40;4;3;3;yes;Degree;160;no;Degree;178;yes;Leo
+male;72;186;brown;brown;42;4;2;1;no;Degree;175;yes;Degree;185;no;Virgo
+female;;168;green;blonde;38;2;2;1;yes;Upper Secondary;168;no;Upper Secondary;172;yes;Cancer
+male;;190;blue;brown;46;2;2;2;no;Upper Secondary;178;no;Degree;184;yes;Aries
+male;95;185;blue;brown;45;1;1;3;no;Secondary;180;no;Upper Secondary;180;yes;Sagittarius
+male;80;176;brown;brown;45;2;;;no;Upper Secondary;165;no;Degree;180;yes;Libra
+female;62;165;bluegray;blonde;38;2;4;4;no;Secondary;160;no;Secondary;175;no;Libra
+female;57;165;brown;brown;39;;2;;no;Upper Secondary;167;no;Secondary;175;no;Pisces
+female;;151;brown;brown;36;1;1;2;no;Secondary;;no;Secondary;;no;Taurus
+male;64;180;blue;darkblonde;43;1;3;2;yes;Secondary;168;no;Secondary;173;no;Pisces
+female;65;170;bluegreen;darkblonde;37;2;4;4;yes;Upper Secondary;165;no;Secondary;172;no;Cancer
+female;51;164;greenbrown;brown;38;2;2;1;no;Upper Secondary;160;no;Degree;;yes;Aquarius
+male;60;179;green;blonde;41;4;2;3;no;Degree;160;no;Upper Secondary;175;yes;Aries
+female;54;167;green;brown;38;2;;1;no;Degree;167;no;Degree;185;no;Leo
+male;78;180;blue;gray;42;;4;1;no;Upper Secondary;;no;Upper Secondary;;no;Taurus
+male;67;180;blue;darkblonde;43;1;3;3;no;Upper Secondary;165;no;Upper Secondary;173;no;Taurus
+female;55;162;brown;brown;39;;3;3;no;Upper Secondary;158;no;Degree;180;no;Cancer
+male;83;172;greenbrown;brown;43;2;1;1;yes;Secondary;165;yes;Degree;175;yes;Leo
+male;88;185;brown;gray;43;3;;;no;Upper Secondary;170;no;Upper Secondary;180;yes;Aries
+female;53;168;brown;brown;39;3;2;1;no;Upper Secondary;159;no;Degree;;no;Aquarius
+female;;165;brown;brown;38;3;2;3;no;Upper Secondary;158;no;Secondary;170;no;Taurus
+female;53;171;blue;blonde;40;;3;2;yes;Secondary;164;yes;Upper Secondary;186;yes;Leo
+female;50;160;blue;blonde;38;;1;3;yes;Secondary;165;no;Secondary;;no;Leo
+female;75;151;brown;brown;36;1;1;2;no;Secondary;160;no;Secondary;165;no;Taurus
+male;70;170;green;brown;40;1;3;1;yes;Secondary;155;yes;Secondary;169;no;Aquarius
+female;50;163;blue;brown;38;2;3;4;yes;Secondary;158;yes;Secondary;180;no;Libra
+male;66;178;green;brown;42;4;4;3;no;Secondary;163;no;Secondary;174;no;Pisces
+female;59;162;bluegreen;brown;38;4;1;1;no;Upper Secondary;168;yes;Secondary;170;no;Sagittarius
+male;85;183;brown;brown;45;;2;;no;Secondary;160;no;Secondary;182;yes;Scorpio
+female;67;173;blue;blonde;41;2;3;2;yes;Degree;165;yes;Degree;190;no;Libra
+male;86;196;bluegreen;brown;44;4;4;4;yes;Upper Secondary;172;no;Degree;192;no;Taurus
+female;53;159;bluegray;brown;37;4;3;4;no;Secondary;158;no;Secondary;174;no;Sagittarius
+female;65;180;greenbrown;lightbrown;41;;3;2;no;Secondary;172;no;Secondary;175;no;
+male;66;180;brown;redbrown;43;1;2;1;yes;Degree;160;no;Degree;175;no;Libra
+male;75;185;green;brown;45;3;2;4;no;Upper Secondary;172;no;Secondary;172;yes;Capricorn
+female;45;169;brown;red;38;1;1;1;yes;Degree;160;yes;Degree;180;yes;Taurus
+male;63;178;greenbrown;lightbrown;42;4;3;2;yes;Degree;176;no;Upper Secondary;180;no;Leo
+female;99;178;blue;darkblonde;41;;1;1;no;Secondary;165;no;Secondary;172;yes;Sagittarius
+female;;164;darkbrown;darkbrown;40;;2;3;yes;Upper Secondary;163;yes;Secondary;182;no;Taurus
+female;57;160;green;brown;38;3;3;3;yes;Upper Secondary;165;yes;Upper Secondary;185;yes;Virgo
+female;58;165;blue;brown;38;4;2;3;no;Upper Secondary;155;no;Secondary;160;no;Virgo
+male;98;182;green;blonde;44;2;2;3;yes;Secondary;163;no;Secondary;176;no;Aries
+male;68;189;bluegreen;darkblonde;45;;;2;yes;Degree;163;no;Degree;176;no;
+female;68;170;brown;brown;40;4;3;3;yes;Degree;162;no;Degree;182;yes;Leo
+male;80;189;brown;brown;45;;3;1;yes;Secondary;170;no;Upper Secondary;188;no;Aquarius
+female;58;169;brown;red;40;;3;4;yes;Secondary;158;no;Secondary;;no;Scorpio
+male;84;172;blue;gray;42;;;;no;Upper Secondary;;no;Secondary;;no;Taurus
+female;45;154;brown;brown;35;3;3;3;no;Upper Secondary;154;no;Upper Secondary;172;no;Leo
+female;64;173;graygreen;blonde;39;;;;yes;Upper Secondary;177;no;Secondary;178;no;Aries
+male;75;193;graygreen;blonde;47;4;2;3;no;Degree;174;no;Degree;183;no;
+female;59;170;blue;darkblonde;39;2;2;4;no;Degree;167;no;Degree;190;no;Capricorn
+male;72;175;graygreen;brown;42;4;2;1;no;Secondary;165;no;Secondary;173;no;Virgo
+female;60;171;greenbrown;brown;40;1;1;1;no;Upper Secondary;168;yes;Upper Secondary;185;no;Pisces
+male;105;180;bluegreen;blonde;45;4;4;3;no;Secondary;154;no;Secondary;174;no;Gemini
+female;60;170;brown;brown;41;1;;1;yes;Degree;163;no;Degree;182;no;Capricorn
+female;50;169;blue;blonde;39;3;3;3;yes;Upper Secondary;168;no;Degree;176;yes;Sagittarius
+male;90;185;blue;brown;45;1;1;3;no;Secondary;175;no;Upper Secondary;175;yes;Sagittarius
+female;;165;brown;brown;38;3;4;4;yes;Secondary;164;no;Degree;178;no;Taurus
+male;94;190;bluegreen;brown;46;2;3;2;yes;Secondary;168;yes;Secondary;183;no;Pisces
+female;49;160;blue;brown;37;3;4;2;yes;Upper Secondary;160;no;Secondary;174;no;Leo
+male;78;200;brown;black;46;4;3;3;no;Upper Secondary;178;no;Secondary;196;no;Gemini
+male;95;179;brown;darkbrown;46;;3;;no;Secondary;;no;Secondary;;no;Capricorn
+male;55;169;gray;blonde;41;1;1;2;yes;Degree;155;yes;Degree;179;yes;Virgo
+female;70;162;blue;red;36;1;1;2;yes;Degree;173;no;Degree;173;yes;Leo
+female;53;179;blue;black;40;2;3;4;yes;Secondary;169;yes;Secondary;183;yes;Aries
+male;68;178;brown;brown;43;4;3;4;yes;Degree;170;no;Degree;170;yes;Libra
+male;85;185;brown;brown;45;2;3;3;no;Secondary;165;no;Secondary;175;no;Leo
+male;68;177;green;brown;43;3;3;2;yes;Upper Secondary;160;no;Degree;176;yes;Leo
+;47;168;brown;brown;38;4;3;4;no;Secondary;170;yes;Secondary;170;no;Taurus
+male;83;181;brown;brown;43;2;3;4;no;Secondary;165;yes;Secondary;175;yes;Pisces
+male;80;188;brown;brown;43;2;1;1;no;Secondary;175;yes;Secondary;185;no;
+male;75;191;brown;brown;46;4;2;;yes;Upper Secondary;;no;Degree;;no;Gemini
+male;87;178;bluegray;brown;45;;1;2;yes;Degree;;no;Upper Secondary;190;yes;Leo
+male;110;175;brown;black;43;;;;yes;Secondary;165;no;Upper Secondary;;no;Sagittarius
+female;55;160;blue;brown;39;2;3;2;no;Degree;155;no;Upper Secondary;165;no;Virgo
+female;50;161;blue;brown;36;2;4;3;no;Upper Secondary;160;no;Degree;175;no;Aries
+male;63;170;blue;blonde;41;3;3;3;no;Secondary;160;no;Secondary;170;no;Pisces
+female;65;167;green;brown;38;4;1;3;no;Secondary;152;yes;Secondary;180;yes;Virgo
+female;50;163;brown;blonde;36;2;;2;yes;Upper Secondary;165;yes;Degree;177;yes;Aries
+female;62;164;blue;blonde;40;2;2;;yes;Secondary;163;yes;Degree;184;no;Cancer
+female;58;174;darkbrown;brown;39;4;;4;yes;Secondary;162;no;Secondary;170;yes;Gemini
+female;63;175;blue;blonde;41;4;4;4;yes;Degree;178;no;Degree;189;no;Leo
+female;59;173;bluegray;brown;39;2;2;3;yes;Upper Secondary;167;no;Secondary;188;no;Leo
+female;54;160;brown;brown;37;2;2;2;no;Secondary;158;no;Degree;172;no;Gemini
+female;58;170;brown;brown;40;;2;1;no;Upper Secondary;165;no;Secondary;183;no;Aries
+male;105;172;green;black;45;3;3;4;yes;Upper Secondary;168;no;Upper Secondary;185;no;Aries
+female;75;171;blue;red;39;3;1;2;no;Upper Secondary;160;no;Degree;185;no;Gemini
+female;72;160;greenbrown;red;36;;1;2;yes;Secondary;154;no;Upper Secondary;183;yes;Capricorn
+male;70;179;green;brown;43;3;2;1;yes;Degree;156;no;Degree;183;yes;Libra
+male;80;190;brown;brown;44;1;2;1;no;Upper Secondary;165;no;Upper Secondary;183;no;Leo
+male;84;190;green;blonde;45;;;;no;Secondary;170;no;Upper Secondary;182;no;Leo
+female;62;155;brown;brown;37;2;1;2;no;Secondary;154;no;Upper Secondary;174;no;Pisces
+female;85;165;green;brown;39;4;4;4;no;Upper Secondary;168;no;Upper Secondary;175;no;Aquarius
+female;56;163;brown;brown;38;;;;no;Secondary;186;no;Secondary;170;no;Cancer
+male;70;172;brown;darkbrown;41;1;4;2;yes;Upper Secondary;156;no;Secondary;170;no;Leo
+female;70;158;brown;blondebrown;37;1;1;1;no;Upper Secondary;151;no;Degree;170;no;Leo
+male;105;178;green;brown;44;2;4;3;no;Degree;165;no;Degree;176;no;Cancer
+female;56;153;bluegray;darkblonde;38;3;2;4;no;Upper Secondary;150;no;Upper Secondary;179;no;Pisces
+male;76;182;greenbrown;black;44;;1;;no;Secondary;;no;Secondary;;no;Aries
+male;78;178;blue;brown;42;4;3;1;yes;Secondary;166;no;Secondary;178;no;Aquarius
+male;74;190;bluegreen;blonde;45;1;3;3;no;Secondary;164;yes;Degree;179;no;Aquarius
+male;90;185;greenbrown;brown;45;3;3;4;yes;Secondary;165;no;Secondary;166;no;Sagittarius
+female;60;173;bluegray;lightbrown;40;3;2;1;no;Secondary;163;yes;Secondary;197;no;Capricorn
+female;65;178;brown;brown;41;3;3;4;no;Secondary;174;no;Secondary;176;yes;
+female;65;172;greenbrown;redbrown;39;2;1;2;no;Degree;164;no;Degree;184;no;Libra
+male;93;186;blue;blonde;43;3;1;1;no;Upper Secondary;;no;Degree;180;no;Libra
+male;81;189;brown;brown;46;2;2;1;no;Secondary;172;no;Secondary;176;no;Sagittarius
+male;70;185;blue;darkblonde;45;2;1;1;no;Upper Secondary;165;no;Degree;178;;Virgo
+male;95;190;brown;brown;46;3;4;;no;Secondary;170;no;Secondary;180;no;Leo
+male;70;178;brown;brown;42;1;1;2;yes;Secondary;160;no;Secondary;176;no;Pisces
+male;62;172;brown;darkbrown;41;2;2;4;no;Upper Secondary;165;yes;Degree;180;no;Sagittarius
+male;71;183;brown;brown;47;2;4;2;no;Degree;165;yes;Degree;189;no;Aries
+male;91;175;greenbrown;brown;42;3;3;;no;Degree;170;no;Degree;175;yes;Cancer
+male;80;182;brown;brown;45;3;4;4;yes;Secondary;169;no;Secondary;174;yes;Scorpio
+male;63;180;blue;blonde;44;3;4;4;yes;Degree;160;no;Degree;188;yes;Virgo
+male;70;180;blue;brown;43;1;4;3;yes;Secondary;160;no;Secondary;180;no;Taurus
+male;65;178;brown;brown;43;1;3;2;no;Upper Secondary;160;no;Upper Secondary;180;no;Virgo
+male;86;198;graygreen;blonde;47;3;3;3;no;Upper Secondary;180;;;185;no;Aries
+male;80;176;blue;brown;43;1;3;3;yes;Upper Secondary;167;no;Secondary;168;yes;
+male;71;183;brown;black;44;;;;no;Degree;;no;Degree;180;yes;Gemini
+male;70;186;blue;darkblonde;46;3;1;2;no;Secondary;;no;Secondary;;no;Leo
+male;95;191;blue;brown;45;1;3;2;no;Upper Secondary;165;no;Upper Secondary;190;no;Virgo
+male;65;185;green;brown;47;1;3;1;no;Degree;165;no;;175;no;Scorpio
+male;87;176;graygreen;brown;43;3;3;3;no;Upper Secondary;;no;Secondary;;no;Sagittarius
+male;78;179;brown;brown;43;;3;;no;Secondary;;no;Secondary;;no;Leo
+male;65;172;bluegreen;blonde;42;4;4;4;no;Secondary;160;no;Degree;178;no;Gemini
+male;87;186;brown;brown;46;3;4;4;yes;Upper Secondary;165;no;Secondary;166;no;Sagittarius
+male;66;175;graygreen;brown;43;2;2;1;no;Secondary;162;yes;Degree;174;no;Libra
+female;60;172;brown;brown;39;1;;;no;Upper Secondary;163;no;Upper Secondary;183;no;Sagittarius
+male;72;174;brown;brown;41;1;1;;no;Secondary;168;no;Secondary;180;yes;Aries
+male;80;183;green;blonde;45;3;;;no;Secondary;;yes;Secondary;;no;Scorpio
+male;75;175;blue;brown;42;;2;;no;Secondary;160;yes;Secondary;182;no;Taurus
+male;72;176;brown;darkbrown;42;3;3;;;Secondary;;no;Secondary;;;
+male;85;177;black;black;43;2;;2;no;Upper Secondary;160;no;Degree;174;no;Libra
+male;86;184;brown;darkbrown;44;4;4;3;yes;Secondary;172;no;Secondary;182;no;Cancer
+male;79;175;bluegray;brown;43;2;4;4;no;Degree;167;no;Upper Secondary;;yes;Gemini
+male;77;189;graybrown;darkbrown;45;1;;2;no;Degree;171;no;Degree;191;no;Aquarius
+male;67;178;bluegray;black;43;2;2;1;no;Secondary;167;no;Secondary;189;yes;Taurus
+male;90;174;multicolor;brown;42;3;3;;no;Degree;;yes;Degree;;yes;Aries
+male;95;187;brown;brown;46;3;3;3;yes;Secondary;170;no;Secondary;184;;Aquarius
+male;68;175;brown;brown;42;3;2;2;no;Secondary;154;no;Secondary;164;no;Gemini
+male;68;180;green;brown;43;;;;no;Degree;;no;Degree;;no;Leo
+male;88;185;brown;blueblack;43;2;3;3;no;Secondary;;yes;Upper Secondary;;no;Virgo
+male;84;184;blue;blonde;43;4;3;2;no;Secondary;;no;Secondary;;no;Cancer
+;85;179;blue;brown;42;4;2;;no;Upper Secondary;167;no;Secondary;164;no;Pisces
+male;85;189;brown;darkblonde;47;2;1;;yes;Secondary;160;yes;Secondary;180;no;Aquarius
+female;52;160;brown;brown;38;4;4;4;no;Secondary;160;no;Secondary;178;no;Sagittarius
+male;70;182;brown;darkbrown;44;2;3;3;no;Upper Secondary;175;no;Secondary;180;no;Gemini
+female;;165;brown;brown;38;4;3;3;no;Secondary;180;no;Upper Secondary;178;no;Scorpio
+male;69;179;brown;brown;44;4;2;1;yes;Upper Secondary;175;no;Degree;178;no;Leo
+female;65;176;brown;brown;43;;2;2;no;Secondary;173;no;Secondary;185;no;Gemini
+male;73;172;gray;darkblonde;43;2;3;3;no;Secondary;;no;Secondary;170;no;Libra
+male;73;172;gray;darkblonde;43;2;3;3;no;Secondary;;no;Secondary;170;no;Libra
+male;70;181;bluegreen;brown;42;3;2;;yes;Upper Secondary;165;no;Secondary;180;no;Aquarius
+female;58;174;blue;darkbrown;40;2;3;3;no;Upper Secondary;172;no;Upper Secondary;180;yes;Cancer
+male;64;182;green;darkblonde;43;2;;2;no;Secondary;158;no;Degree;173;no;Cancer
+male;75;182;dark;black;42;4;2;3;no;Upper Secondary;172;no;Degree;180;no;Pisces
+male;75;186;blue;brown;47;3;1;;yes;Upper Secondary;170;no;Degree;178;no;Pisces
+male;90;183;bluegray;brown;44;;;;no;Degree;165;no;Degree;168;no;Aquarius
+male;90;185;bluegreen;darkblonde;44;;2;;yes;Secondary;167;no;Secondary;175;no;Leo
+male;;;brown;brown;;2;3;2;yes;Degree;;no;Degree;;no;Aries
+male;65;180;blue;darkblonde;43;1;2;2;no;Degree;;no;Degree;;no;Leo
+female;56;162;graygreen;darkblonde;40;3;2;3;yes;Degree;167;yes;Degree;182;no;Sagittarius
+male;78;184;brown;brown;46;3;3;1;yes;Degree;172;yes;Degree;179;yes;Cancer
+male;63;175;blue;brown;45;1;4;;no;Upper Secondary;172;no;Upper Secondary;170;yes;Sagittarius
+male;60;166;bluegray;blonde;40;1;1;1;no;Upper Secondary;;yes;Degree;;yes;Virgo
+male;67;;greenbrown;black;42;3;2;1;no;Degree;;no;Secondary;;yes;Capricorn
+male;90;185;brown;brown;43;3;3;2;no;Upper Secondary;175;yes;Secondary;175;no;Sagittarius
+male;67;182;green;brown;44;3;4;;no;Secondary;155;no;Secondary;185;yes;Sagittarius
+male;90;185;green;brown;45;4;;;no;Secondary;;no;Secondary;;no;Leo
+female;46;160;brown;brown;39;3;;2;no;Upper Secondary;154;yes;Upper Secondary;175;no;Gemini
+male;83;180;brown;blonde;43;4;2;3;no;Degree;155;no;Degree;185;no;Sagittarius
+male;60;172;brown;brown;43;3;2;1;no;Secondary;154;no;Degree;170;no;Leo
+male;70;181;brown;black;42;1;1;1;no;Secondary;168;no;Degree;170;no;Leo
+male;62;178;blue;darkbrown;43;;3;;no;Upper Secondary;160;no;Upper Secondary;180;no;Scorpio
+female;57;159;brown;brown;37;2;;;no;Degree;153;yes;Degree;174;yes;Aries
+male;105;173;graygreen;brown;42;1;1;1;yes;Upper Secondary;165;no;Upper Secondary;182;yes;Sagittarius
+male;67;170;brown;black;43;1;2;3;no;Secondary;155;no;Secondary;160;yes;Gemini
+female;46;159;blue;brown;37;2;;3;no;Secondary;;no;Secondary;175;no;
+male;80;178;brown;brown;44;;1;;yes;Upper Secondary;165;no;Upper Secondary;178;yes;Aquarius
+male;75;184;bluegray;blonde;42;3;3;3;no;Upper Secondary;164;no;Secondary;181;no;Scorpio
+male;83;181;bluegray;black;44;1;2;2;no;Secondary;174;yes;Secondary;182;yes;Virgo
+female;50;165;blue;brown;37;1;1;;yes;Secondary;160;no;Secondary;175;no;Capricorn
+female;49;157;darkbrown;darkbrown;37;4;4;4;no;Upper Secondary;160;no;Degree;164;yes;Aries
+female;48;154;darkbrown;black;37;4;4;2;no;Upper Secondary;160;no;Degree;164;yes;Leo
+male;85;180;brown;black;43;;;;no;Secondary;156;no;Secondary;175;no;Scorpio
+male;83;183;blue;blonde;45;2;1;1;no;Degree;173;no;Degree;179;no;
+male;77;183;brown;brown;44;1;1;1;no;Upper Secondary;;no;Secondary;;no;Leo
+male;83;190;blue;blonde;43;3;4;4;no;Upper Secondary;;no;Upper Secondary;;yes;Aries
+male;80;178;bluegray;brown;43;3;3;3;no;Upper Secondary;;no;Degree;;no;Cancer
+female;51;172;graygreen;blonde;39;1;1;1;no;Secondary;164;no;Secondary;170;no;Virgo
+male;62;173;brown;brown;42;4;1;;yes;Degree;165;no;Upper Secondary;178;yes;Taurus
+male;75;181;blue;darkbrown;43;4;3;1;no;Secondary;169;yes;Degree;183;no;Aries
+male;68;174;brown;darkbrown;41;2;3;2;yes;Upper Secondary;164;no;Degree;180;no;Leo
+male;78;182;bluegray;brown;43;2;3;3;no;Secondary;;no;Secondary;;no;Aquarius
+male;78;182;bluegray;brown;43;2;3;3;no;Secondary;;no;Secondary;;no;Aquarius
+female;80;173;brown;brown;41;1;2;4;no;Secondary;165;no;Secondary;182;no;Aquarius
+female;;173;brown;blonde;41;4;4;2;no;Degree;155;no;Secondary;182;no;Scorpio
+male;83;178;blue;blonde;42;;3;;yes;Degree;170;no;Degree;176;no;Gemini
+male;60;178;black;black;42;3;;1;no;Degree;157;no;Degree;178;no;Scorpio
+female;68;172;brown;black;40;2;4;3;no;Degree;159;no;Degree;167;yes;Libra
+male;95;180;blue;brown;45;4;4;3;no;Upper Secondary;170;no;Upper Secondary;175;no;Libra
+female;52;165;bluegray;darkblonde;39;4;3;2;yes;Upper Secondary;163;no;Secondary;182;yes;Cancer
+male;93;181;bluegray;darkblonde;43;3;3;3;no;Degree;;no;Degree;;no;Aries
+female;50;160;brown;brown;37;1;1;;no;Secondary;160;no;Secondary;175;yes;Aquarius
+male;110;190;graygreen;brown;46;;;;no;Upper Secondary;;yes;Secondary;;yes;Aries
+;57;160;brown;brown;37;;;;no;Upper Secondary;165;no;Degree;170;no;Capricorn
+male;56;180;blue;brown;45;4;4;4;no;Secondary;165;no;Secondary;179;no;Scorpio
+female;70;169;brown;brown;40;4;2;3;no;Secondary;;no;Degree;;no;Capricorn
+female;55;165;graygreen;redbrown;40;2;1;;no;Secondary;165;no;Secondary;185;yes;Pisces
+male;80;198;blue;blonde;48;;;;no;Degree;176;no;Degree;196;no;Taurus
+female;60;172;brown;brown;40;3;1;1;yes;Secondary;168;no;Secondary;172;yes;Sagittarius
+female;63;165;blue;brown;39;2;3;4;yes;Secondary;153;no;Secondary;183;yes;Leo
+male;68;176;brown;brown;44;;;2;no;Upper Secondary;163;no;Upper Secondary;180;no;Capricorn
+male;75;185;brown;darkbrown;43;2;1;1;no;Degree;160;no;Degree;190;no;Libra
+male;88;187;brown;brown;46;2;4;3;no;Secondary;170;no;Degree;182;;Virgo
+female;48;168;brown;darkblonde;37;3;4;4;yes;Secondary;165;no;Secondary;185;no;Pisces
+male;65;173;green;brown;42;4;2;3;yes;Upper Secondary;165;yes;Degree;170;no;Virgo
+male;75;180;bluegreen;brown;45;4;3;2;no;Upper Secondary;;no;Secondary;;no;Sagittarius
+male;70;178;brown;brown;43;;1;;no;Secondary;165;yes;Secondary;180;yes;Gemini
+female;55;162;brown;brown;39;;3;3;no;Upper Secondary;158;no;Degree;170;;Cancer
+male;78;174;bluegreen;blonde;45;;4;3;yes;Upper Secondary;162;yes;Upper Secondary;174;no;Aries
+male;75;175;brown;brown;43;2;3;2;no;Upper Secondary;;no;Secondary;172;no;Cancer
+female;58;170;graybrown;brown;41;3;1;;yes;Degree;173;no;Secondary;174;no;
+male;68;179;brown;brown;42;;2;2;no;Secondary;165;no;Secondary;190;no;Scorpio
+male;72;180;bluegreen;redblonde;43;3;2;1;yes;Upper Secondary;172;no;Degree;180;no;Sagittarius
+female;58;171;brown;brown;40;4;4;3;no;Secondary;;yes;Upper Secondary;;yes;Sagittarius
+female;69;171;bluegray;black;39;1;2;1;no;Secondary;158;no;Degree;191;yes;Capricorn
+male;68;175;brown;brown;43;;1;;no;Secondary;155;no;Secondary;180;no;Aquarius
+male;77;177;brown;black;44;4;1;1;yes;Upper Secondary;164;no;Secondary;175;no;
+male;90;187;blue;darkblonde;47;4;4;4;yes;Upper Secondary;165;no;Secondary;180;no;Libra
+male;85;187;blue;blonde;45;4;4;;no;Upper Secondary;165;no;Secondary;180;no;Virgo
+male;77;177;brown;brown;43;3;4;3;no;Secondary;165;no;Secondary;168;no;Cancer
+male;85;173;brown;brown;43;4;3;4;yes;;163;;Degree;170;;
+male;96;192;greenbrown;brown;45;4;4;4;yes;Secondary;170;yes;Secondary;185;yes;Aries
+male;75;194;bluegray;blonde;46;2;2;2;yes;Secondary;178;no;Secondary;189;no;Cancer
+female;64;172;brown;brown;40;2;1;2;no;Degree;178;yes;Upper Secondary;177;no;Leo
+female;63;178;brown;brown;41;3;3;3;yes;Secondary;177;no;Secondary;177;yes;Taurus
+female;51;160;brown;brown;35;2;3;4;no;Secondary;170;no;Secondary;174;no;Virgo
+male;71;177;brown;brown;44;2;2;1;no;Secondary;;;;;no;Virgo
+male;65;178;brown;brown;43;;1;1;no;Secondary;160;no;Upper Secondary;163;no;Gemini
+male;80;190;graygreen;brown;44;2;4;3;no;Secondary;;no;Degree;;no;Sagittarius
+female;68;170;gray;darkblonde;38;2;;1;no;Upper Secondary;163;no;Upper Secondary;;yes;Libra
+male;;191;bluegray;brown;46;2;3;2;no;Degree;178;no;Degree;185;yes;Aries
+male;57;183;blue;blonde;43;4;2;3;no;Secondary;169;no;Upper Secondary;183;yes;Virgo
+male;95;183;greenbrown;brown;45;2;4;4;no;Upper Secondary;165;no;Upper Secondary;180;no;Scorpio
+female;;168;brown;;38;3;1;;no;Upper Secondary;;no;Degree;;yes;Virgo
+male;64;171;blue;darkblonde;41;3;2;3;no;Secondary;157;no;Secondary;170;no;Pisces
+male;70;178;blue;blonde;43;3;2;2;yes;Upper Secondary;;no;Degree;;no;Capricorn
+male;120;;yellow;purple;;;;;yes;Degree;;yes;Secondary;;yes;Capricorn
+male;62;180;brown;brown;42;1;1;1;no;Upper Secondary;153;no;;173;no;Sagittarius
+male;90;184;brown;brown;43;3;4;4;no;Upper Secondary;174;no;Degree;175;no;Capricorn
+male;85;190;green;blonde;45;3;2;2;no;Secondary;170;no;;182;no;Leo
+male;75;178;brown;brown;42;1;1;2;yes;Upper Secondary;167;no;Secondary;182;yes;Taurus
+male;75;187;bluegreen;lightbrown;44;;2;;no;Upper Secondary;;no;Secondary;;no;Cancer
+male;71;186;blue;brown;47;2;3;1;yes;Degree;171;no;Upper Secondary;184;yes;Pisces
+female;55;160;brown;brown;38;3;2;2;yes;Secondary;158;no;Secondary;185;yes;Taurus
+female;80;170;brown;brown;41;4;3;4;no;Upper Secondary;167;no;Upper Secondary;186;yes;Aries
+male;68;180;blue;blonde;41;3;1;1;no;Upper Secondary;175;no;Upper Secondary;170;no;Libra
+male;77;178;brown;brown;42;3;3;;yes;Secondary;172;no;Upper Secondary;175;yes;Libra
+male;65;174;brown;brown;43;2;1;1;no;Secondary;175;yes;Upper Secondary;180;no;Virgo
+male;72;179;graygreen;redblonde;43;3;1;4;yes;Degree;160;yes;Degree;183;yes;Sagittarius
+male;70;172;brown;darkbrown;41;1;;2;yes;Secondary;157;no;Secondary;170;no;Leo
+male;65;177;blue;brown;43;2;3;1;yes;Secondary;165;no;Degree;175;no;Aquarius
+male;83;183;bluegray;brown;43;2;2;2;yes;Secondary;164;no;Secondary;180;no;Taurus
+female;55;165;bluegreengray;redbrown;40;2;1;;no;Secondary;165;no;Secondary;185;yes;Pisces
+female;60;157;brown;brown;37;2;1;2;no;Secondary;157;no;Upper Secondary;174;no;Pisces
+male;70;178;brown;brown;42;3;3;4;yes;Upper Secondary;158;no;Degree;160;yes;Virgo
+female;59;173;brown;brown;39;;;;yes;Secondary;160;no;Secondary;170;yes;Sagittarius
+female;80;160;brown;brown;38;4;4;4;yes;Secondary;168;no;Secondary;174;no;
+male;70;178;green;brown;42;2;2;2;yes;Upper Secondary;;yes;Secondary;;no;Gemini
+male;88;180;;;44;1;1;1;;Upper Secondary;155;no;Upper Secondary;190;;
+male;73;181;brown;brown;44;1;1;2;no;Upper Secondary;170;no;Upper Secondary;180;no;Leo
+male;64;176;brown;brown;41;1;;1;;Secondary;171;yes;Secondary;175;yes;Gemini
+male;72;182;blue;black;44;1;;;no;Degree;;yes;Secondary;;yes;Taurus
+male;78;174;brown;brown;41;3;2;1;no;Secondary;163;no;Secondary;173;no;Aries
+male;81;176;blue;brown;42;2;1;2;yes;Upper Secondary;166;yes;Upper Secondary;168;no;Aries
+male;115;190;greenbrown;brown;44;2;3;2;no;Secondary;162;no;Secondary;170;no;Aries
+male;73;180;green;black;41;;3;3;no;Secondary;;yes;Secondary;;yes;Sagittarius
+female;52;170;bluegreen;lightbrown;39;1;1;1;yes;Upper Secondary;167;no;Upper Secondary;177;yes;Taurus
+female;64;176;brown;black;41;3;;3;no;Degree;174;no;Degree;175;no;
+male;65;174;bluegreen;brown;42;4;4;4;no;Secondary;160;no;Degree;180;no;Gemini
+male;70;171;brown;brown;43;4;1;1;yes;Upper Secondary;;no;Degree;;no;
+male;78;189;bluegreen;darkblonde;46;3;3;3;no;Secondary;;no;Degree;;no;Scorpio
+male;98;190;brown;brown;45;4;4;3;no;Degree;169;yes;Degree;188;yes;Libra
+male;;184;bluegray;brown;43;1;1;2;no;Upper Secondary;;no;Secondary;;no;Gemini
+male;62;175;brown;blonde;42;2;3;2;no;Degree;;yes;Degree;;yes;Scorpio
+male;100;196;brown;brown;47;2;1;1;no;Secondary;173;yes;Secondary;186;yes;Taurus
+female;55;157;greenbrown;blonde;36;;3;4;no;Upper Secondary;158;no;Secondary;174;no;Virgo
+female;;;;;;3;1;3;;Secondary;;;Secondary;;;Pisces
+female;;173;bluegreen;blonde;41;1;3;2;no;Upper Secondary;164;no;Degree;180;no;Pisces
+male;71;175;green;black;42;3;2;2;yes;Upper Secondary;162;no;Secondary;181;no;Gemini
+female;49;164;brown;brown;38;1;1;2;no;Upper Secondary;162;no;Secondary;174;no;Sagittarius
+male;70;180;brown;darkblonde;45;3;4;3;no;Secondary;170;no;Secondary;175;no;Aries
+male;89;184;brown;brown;45;3;2;4;no;Degree;161;no;Degree;182;no;Cancer
+female;44;154;blue;brown;35;2;2;2;no;Secondary;165;yes;Degree;170;no;Aries
+female;;164;bluegray;darkblonde;37;4;2;1;no;Degree;;no;Secondary;;no;Sagittarius
+female;49;158;blue;brown;38;1;4;3;no;Secondary;151;no;Secondary;170;no;Aquarius
+male;;190;green;brown;47;;;;no;Secondary;168;no;Secondary;185;yes;Taurus
+female;60;168;brown;brown;38;1;2;2;yes;Upper Secondary;165;no;Secondary;185;yes;Leo
+male;65;165;blue;black;40;4;4;4;yes;Degree;160;no;Degree;170;yes;Aquarius
+male;115;180;brown;brown;46;2;2;1;no;Upper Secondary;160;yes;Degree;177;yes;Gemini
+male;73;179;graygreen;lightbrown;45;;3;4;yes;Upper Secondary;;yes;Degree;186;no;Capricorn
+male;74;184;bluegray;blonde;42;3;3;3;no;Upper Secondary;160;no;Secondary;181;no;Scorpio
+female;55;167;blue;blonde;39;3;3;3;no;Secondary;162;no;Secondary;186;no;Virgo
+female;47;166;blue;blondebrown;37;3;2;2;yes;Secondary;;no;Secondary;180;no;Capricorn
+male;62;174;blue;blonde;42;;2;3;yes;Upper Secondary;165;no;Upper Secondary;174;no;Leo
+female;65;175;blue;brown;40;3;3;2;no;Secondary;164;;Secondary;186;no;Leo
+female;65;170;greenbrown;brown;39;3;3;2;no;Upper Secondary;;no;Secondary;;yes;Leo
+female;57;168;bluegreen;darkbrown;39;2;1;1;no;Upper Secondary;170;yes;Upper Secondary;190;yes;Cancer
+male;;;brown;brown;42;;;;yes;Secondary;;no;Secondary;;no;Taurus
+male;80;180;brown;black;42;;;;yes;Secondary;;no;Degree;;no;
+female;45;157;bluegray;brown;37;2;2;1;no;Secondary;165;no;Secondary;170;no;Taurus
+female;54;162;brown;darkbrown;38;2;;2;no;Upper Secondary;162;no;Upper Secondary;180;yes;
+male;76;185;bluegray;brown;45;1;3;4;no;Secondary;168;no;Upper Secondary;187;no;Taurus
+male;;;;;;;;;no;;;;;;;
+male;80;178;brown;brown;42;3;3;3;no;Upper Secondary;160;no;Degree;175;no;Cancer
+male;68;183;brown;brown;43;4;2;1;no;Upper Secondary;168;no;Upper Secondary;172;no;Virgo
+female;67;174;bluegray;blonde;41;3;4;1;no;Secondary;175;no;Upper Secondary;181;yes;Virgo
+female;53;172;brown;brown;39;2;3;2;no;Degree;170;no;Degree;178;no;Virgo
+male;69;180;brown;brown;43;2;2;;no;Degree;168;no;Degree;175;no;Taurus
+female;72;160;brown;brown;39;2;;2;no;Secondary;161;no;Secondary;185;yes;Sagittarius
+female;61;168;brown;black;39;4;4;4;yes;Secondary;174;no;Secondary;185;yes;Taurus
+male;75;180;darkbrown;lightbrown;44;3;3;3;yes;Secondary;160;no;Degree;180;no;Capricorn
+male;70;182;greenbrown;brown;44;1;1;1;no;Secondary;;no;Secondary;180;no;Capricorn
+male;78;187;brown;brown;43;4;1;1;no;Secondary;178;yes;Secondary;184;no;Pisces
+male;95;176;brown;brown;43;4;4;4;no;Upper Secondary;166;no;Secondary;182;no;Sagittarius
+male;88;192;bluegreenbrown;darkblonde;45;2;2;1;no;Secondary;;no;Upper Secondary;;no;Cancer
+female;49;160;blue;black;37;1;4;;no;Secondary;163;yes;Secondary;174;no;Taurus
+female;53;160;brown;brown;36;3;1;2;no;Upper Secondary;170;no;Upper Secondary;178;no;Sagittarius
+male;78;;green;black;44;1;;1;no;Degree;;no;Degree;;no;Sagittarius
+male;86;180;brown;brown;43;;1;2;;Secondary;170;no;Upper Secondary;176;no;
+male;63;182;brown;brown;44;;;2;yes;Secondary;160;no;Degree;176;no;Aries
+male;63;182;brown;brown;44;;;2;yes;Secondary;160;no;Degree;176;no;Aries
+male;85;182;bluebrown;brown;44;;3;2;no;Secondary;175;no;Upper Secondary;180;no;Libra
+female;;164;blue;black;38;;2;2;no;Degree;170;no;Degree;175;yes;Cancer
+male;98;191;brown;brown;45;3;2;1;yes;Degree;158;no;Degree;188;no;Cancer
+female;55;168;brown;brown;39;3;3;3;yes;Secondary;167;yes;Secondary;175;yes;Taurus
+male;65;175;blue;brown;43;;1;1;yes;Secondary;155;no;Secondary;165;no;
+male;65;170;brown;brown;42;1;;1;no;Upper Secondary;160;no;Upper Secondary;;yes;Capricorn
+male;75;198;blue;darkblonde;48;3;4;3;no;Degree;;no;Degree;196;no;Aries
+male;72;174;bluegray;brown;42;;2;4;no;Secondary;170;yes;Degree;174;no;Capricorn
+male;59;175;greenbrown;brown;42;3;3;3;no;Upper Secondary;168;no;Secondary;182;yes;Capricorn
+male;85;189;green;darkblonde;44;;2;3;yes;Degree;170;no;Degree;183;no;Aries
+male;90;194;brown;brown;46;2;2;2;no;Upper Secondary;;no;Upper Secondary;;no;Scorpio
+male;74;180;brown;brown;44;1;3;2;no;Secondary;163;yes;Secondary;178;no;Gemini
+male;;;bluegreen;blonde;43;1;3;3;yes;Upper Secondary;;no;Degree;;yes;Libra
+male;78;172;greenbrown;brown;43;2;1;1;yes;Secondary;162;yes;Degree;175;yes;Leo
+male;105;178;brown;brown;43;2;3;3;no;Degree;164;no;Degree;176;no;Cancer
+female;54;168;blue;brown;37;1;1;1;no;Secondary;174;no;Upper Secondary;175;yes;
+male;68;173;bluegreen;brown;42;2;4;3;no;Upper Secondary;150;no;Secondary;176;;Taurus
+female;50;164;graygreen;brown;38;1;2;3;no;Secondary;160;no;Degree;170;no;Virgo
+male;75;172;green;brown;43;;3;3;no;Secondary;150;no;Secondary;173;no;Gemini
+male;84;181;brown;brown;43;2;3;4;no;Secondary;;yes;Secondary;178;yes;Pisces
+female;58;164;brown;brown;40;1;3;3;no;Secondary;158;no;Secondary;180;no;Aquarius
+male;63;180;blue;brown;42;3;2;1;yes;Upper Secondary;;yes;Upper Secondary;;no;Aries
+male;65;175;greenbrown;brown;42;2;3;2;no;Secondary;160;yes;Secondary;175;no;Sagittarius
+female;;170;brown;brown;41;1;2;;no;Secondary;168;no;Upper Secondary;183;no;Aquarius
+male;;185;blue;blonde;43;1;3;;no;Upper Secondary;;no;Secondary;;no;Aries
+male;73;175;brown;brown;43;3;4;4;no;Degree;165;no;Upper Secondary;175;yes;Aquarius
+male;73;183;brown;brown;45;3;4;4;no;Upper Secondary;165;no;Upper Secondary;176;no;Taurus
+male;70;184;blue;brown;41;;;;no;Secondary;;no;Upper Secondary;;no;Pisces
+male;78;180;brown;brown;44;2;3;3;no;Upper Secondary;;no;Secondary;;no;Cancer
+male;55;167;bluegreen;black;42;1;3;4;yes;Secondary;158;no;Upper Secondary;168;no;Cancer
+male;90;195;bluegreen;darkblonde;46;1;;;no;Degree;;yes;Upper Secondary;193;yes;Virgo
+female;62;168;brown;black;39;4;3;3;yes;Secondary;;no;Secondary;;no;Leo
+male;57;178;brown;brown;43;3;;3;no;Secondary;160;no;Secondary;182;no;Cancer
+male;65;180;blue;brown;43;3;2;2;no;Upper Secondary;170;no;Secondary;179;no;Pisces
+male;77;185;brown;brown;47;;;;no;Degree;170;yes;Degree;183;yes;Leo
+male;90;177;brown;black;44;2;3;3;no;Secondary;160;no;Secondary;171;no;Cancer
+male;;;bluegray;;43;3;;2;no;Upper Secondary;;yes;Degree;;yes;Libra
+female;55;165;bluegreen;blonde;37;4;4;1;yes;Secondary;163;no;Degree;180;yes;Aquarius
+male;86;186;gray;brown;44;4;3;3;yes;Secondary;;yes;Degree;187;yes;Scorpio
+male;85;176;blue;red;42;1;1;2;no;Upper Secondary;165;no;Upper Secondary;175;no;Leo
+female;53;171;brown;brown;40;3;3;2;no;Degree;170;no;Degree;185;no;Scorpio
+male;93;191;bluegray;brown;44;;;;no;Upper Secondary;;no;Degree;;no;Pisces
+male;95;186;graygreen;brown;45;3;2;4;no;Degree;165;no;Secondary;175;no;Leo
+male;73;180;brown;darkbrown;45;4;3;2;no;;;no;;;no;Aquarius
+male;63;170;bluegreengray;brown;41;3;2;3;no;Secondary;160;no;Upper Secondary;180;no;Capricorn
+female;60;174;blue;blonde;40;3;1;2;no;Upper Secondary;165;no;Degree;192;no;Leo
+male;83;183;blue;blonde;46;3;1;1;no;Degree;168;no;Degree;172;no;Pisces
+female;63;183;bluegray;blonde;42;3;1;2;no;Upper Secondary;176;no;Secondary;178;no;Gemini
+male;69;185;blue;darkbrown;44;1;1;1;no;Degree;160;no;Degree;176;no;Sagittarius
+male;90;183;blue;darkblonde;45;3;3;4;no;Secondary;163;yes;Secondary;180;yes;Virgo
+male;80;175;graybrown;brown;43;2;4;4;yes;Upper Secondary;170;no;Secondary;168;no;Virgo
+male;60;178;brown;brown;42;1;2;1;yes;Upper Secondary;170;no;Secondary;172;no;Gemini
+female;58;164;;;38;;;;no;Upper Secondary;;no;Upper Secondary;;no;Aquarius
+female;68;156;graygreen;darkblonde;39;;2;1;no;Secondary;158;no;Secondary;172;no;Libra
+male;75;183;blue;brown;43;4;3;;yes;Secondary;168;no;Upper Secondary;170;yes;Aries
+female;55;166;blue;darkblonde;39;1;1;1;no;Secondary;172;no;Secondary;175;no;Leo
+female;65;175;graygreen;darkbrown;40;;2;1;no;Secondary;168;no;Secondary;174;no;Sagittarius
+female;72;177;bluegreen;blonde;41;;;;no;Degree;;no;Upper Secondary;;no;Gemini
+male;70;186;brown;brown;46;1;;3;no;Secondary;172;no;Degree;185;no;Virgo
+male;82;176;blue;brown;43;1;2;1;no;Upper Secondary;171;no;Upper Secondary;182;no;Pisces
+male;80;179;blue;brown;44;2;2;;no;Secondary;166;no;Secondary;179;no;Leo
+male;96;176;blue;blue;43;3;;2;no;Upper Secondary;;no;Degree;;no;Gemini
+female;54;160;brown;brown;39;1;4;4;no;Degree;165;no;Degree;170;yes;Taurus
+female;;;blue;brown;38;1;1;1;yes;Secondary;;no;Secondary;;no;Scorpio
+male;110;190;brown;brown;44;2;3;2;no;Secondary;167;no;Secondary;175;yes;Aries
